@@ -3,8 +3,8 @@ layout: default
 title: ALPhA Davidson
 ---
 <!-- <div class="blurb">-->
-  <h1>Welcome to ALPhA Davidson's website</h1>
-  <p>We are the Algorithms for Learning in Physics Applications research group at Davidson College.</p>
+  <p>We are the ALPhA research group at Davidson College. We focus on applying cutting-edge machine learning methods to 
+fundamental nuclear physics applications.</p>
   <h2> ALPhA Summer Positions </h2>
   <ul>
   <li><b>Summer Research Fellow: Machine Learning for Jefferson Lab</b></li>
