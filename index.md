@@ -2,7 +2,7 @@
 layout: default
 title: ALPhA Davidson
 ---
-<div class="blurb">
+<!-- <div class="blurb">-->
   <h1>Welcome to ALPhA Davidson's website</h1>
   <p>We are the Algorithms for Learning in Physics Applications research group at Davidson College.</p>
   <h2> ALPhA Summer Positions </h2>
@@ -39,4 +39,4 @@ title: ALPhA Davidson
     </li>
   </ul>
   <p>* These funds are not yet confirmed.</p>
-</div><!-- /.blurb -->
+<!--</div><!-- /.blurb --> 
