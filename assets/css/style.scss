@@ -48,9 +48,10 @@ img.project-name {
 .page_link {
    display: block;
     float: right;
-    width: 90px;
+    width: 150px;
     height: 70px;
-    text-indent: -5000px;
+    //text-indent: -5000px;
+    color: #ffffff;
     overflow: hidden;
     //background:url(../images/sprite_download.png) no-repeat bottom left
     background-color: #333333;
@@ -77,5 +78,6 @@ img.project-name {
 .page_link:hover {
     //background:url(../images/sprite_download.png) no-repeat top right
   background-color: #999999;
+  color: #000000;
 }
 
