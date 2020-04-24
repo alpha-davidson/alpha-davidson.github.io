@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-//a img {outline : none;}
+a img {outline : none;}
 /*header {
   background-color: #ffffff;
   color: #999999;
@@ -12,11 +12,12 @@
  #header_wrap.outer {
  background-color: #ffffff; 
 }
+*/
 img.project_name {
   border : 0;
   outline: none;
-  height: 200px;
+ // height: 200px;
 }
-*/
+
 
 
