@@ -2,6 +2,7 @@ theme: jekyll-theme-slate
 
 title: ALPhA Davidson
 description: Algorithms for Learning in Physics Applications research group at Davidson College.
+logo: /assets/images/logo.png
 show_downloads: true
 github:
   repository_url: https://github.com/alpha-davidson
