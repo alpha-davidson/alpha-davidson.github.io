@@ -5,7 +5,7 @@ title: ALPhA Davidson
 
 # ALPhA research at Davidson College
 <!-- <div class="blurb">-->
-  <p>We are the ALPhA research group at Davidson College. We focus on applying cutting-edge machine learning methods to 
+  <p>We focus on applying cutting-edge machine learning methods to 
 fundamental nuclear physics applications.</p>
   <h2> ALPhA Summer Positions </h2>
   <ul>
