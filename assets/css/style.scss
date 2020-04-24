@@ -3,8 +3,11 @@
 
 @import "{{ site.theme }}";
 
-a img {outline : none;}
+#a img {outline : none;}
 
-img {border : 0;}
+img.project_name {
+  border : 0;
+  height: 200px;
+}
 
 
