@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 //a img {outline : none;}
-
+header {
+  background-color: #ffffff;
+  color: #999999;
+}
 img.project_name {
   border : 0;
   outline: none;
