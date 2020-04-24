@@ -1,3 +1,8 @@
+---
+layout: default
+title: ALPhA Davidson
+---
+
 # ALPhA Members
 
 ## Current Members:
