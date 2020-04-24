@@ -42,8 +42,8 @@ img.project-name {
     right: 0;
     height: 70px;
     //background: url("../images/icon_download.png") no-repeat 0% 90%
-    background-color: #111111;
-    border-radius: 8px;
+    //background-color: #111111;
+    //border-radius: 8px;
 }
 .page_link {
    display: block;
@@ -54,6 +54,7 @@ img.project-name {
     overflow: hidden;
     //background:url(../images/sprite_download.png) no-repeat bottom left
     background-color: #333333;
+    border-radius: 8px; 
 }
 
 
