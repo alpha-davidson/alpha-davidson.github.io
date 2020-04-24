@@ -7,14 +7,14 @@ title: ALPhA Davidson
   <p>We are the Algorithms for Learning in Physics Applications research group at Davidson College.</p>
   <h2> ALPhA Summer Positions </h2>
   <ul>
-    <li>Summer Research Fellow: Machine Learning for Jefferson Lab</li>
+  <li><b>Summer Research Fellow: Machine Learning for Jefferson Lab</b></li>
         <ul>
       <li>Funding source: Department of Energy</li> 
       <li>Project: Neural Networks to predict theoretical structure functions.</li>
       <li>Description: Use deep neural networks with hidden predictions to predict functions that describe the 
         internal structure of a nucleon (<em>structure functions</em>) from kinematic variables</li>
      </ul>
-    <li>Summer Research Fellow: Machine Learning for the Facility for Rare Isotope Beams</li>
+  <li><b>Summer Research Fellow: Machine Learning for the Facility for Rare Isotope Beams</b></li>
      <ul>
       <li>Funding source: Davidson College</li> 
       <li>Project: Reinforcement learning for automatic beam tuning</li>
