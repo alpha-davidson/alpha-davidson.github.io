@@ -13,20 +13,21 @@ title: ALPhA Davidson
  * Nade Bai
  * Cade Dembski
  * Andrew Hoyle
+ * Daniel Lammens
+ * Kate Roberts
  * Rida Shahid
  * Eleni Tsitinidi
  * Annabel Winters-McCabe
+ * Lexie Weghorn
 
 ## Students by Semester:
 ### Spring 2020
  * Cade Dembski
  * Meg Houck
  * Andrew Hoyle
- * Daniel Lammens
  * Zach Nussbaum
- * Kate Roberts
  * Eleni Tsitinidi
- * Lexie Weghorn
+ * Ted Yoo
  
 ### Fall 2019
   * John Blue
