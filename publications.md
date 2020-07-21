@@ -17,5 +17,6 @@ title: ALPhA Davidson
 
 [Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production](https://arxiv.org/abs/2002.02619) **S. G. Frederick**, **M.P. Kuchera**, Kristen L. Thompson. *submitted for review*, 2020.
 
-[*Machine Learning Methods for Track Classification in the AT-TPC*](https://arxiv.org/abs/1810.10350), **M.P. Kuchera**, **R. Ramanujan**, **J.Z. Taylor**, **R.R. Strauss**, D. Bazin, J. Bradt, **R. Chen**. Nucl. Instr. Methods A. (2019) [https://doi.org/10.1016/j.nima.2019.05.097](https://doi.org/10.1016/j.nima.2019.05.097)
+[*Machine Learning Methods for Track Classification in the AT-TPC*](https://arxiv.org/abs/1810.10350), **M.P. Kuchera**, **R. Ramanujan**, **J.Z. Taylor**, **R.R. Strauss**, D. Bazin, J. Bradt, **R. Chen**. Nucl. Instr. Meth. A. (2019) [https://doi.org/10.1016/j.nima.2019.05.097](https://doi.org/10.1016/j.nima.2019.05.097)
 
+[Commissioning of the Active-Target Time Projection Chamber](https://www.sciencedirect.com/science/article/pii/S0168900217309683) J. Bradt, D. Bazin, F. Abu-Nimeh, T. Ahn, Y. Ayyad, S. Beceiro-Novo, L. Carpenter, M. Cortesi, M.P. Kuchera, W.G. Lynch, W. Mittig, S. Rost, N. Watwood, J. Yurkon. Nucl. Instr. Meth. A. (2017) [https://doi.org/10.1016/j.nima.2017.09.013](https://doi.org/10.1016/j.nima.2017.09.013)
