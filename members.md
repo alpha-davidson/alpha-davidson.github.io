@@ -22,9 +22,11 @@ title: ALPhA Davidson
 
 ## Students by Semester:
 ### Spring 2020
+ * John Blue
  * Cade Dembski
  * Meg Houck
  * Andrew Hoyle
+ * Braden Kronheim
  * Zach Nussbaum
  * Eleni Tsitinidi
  * Ted Yoo
