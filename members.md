@@ -10,16 +10,24 @@ title: ALPhA Davidson
  * Michelle Kuchera
  * Raghu Ramanujan
 ### Students:
+ * Nade Bai
+ * Cade Dembski
+ * Andrew Hoyle
+ * Rida Shahid
+ * Eleni Tsitinidi
+ * Annabel Winters-McCabe
+
+## Students by Semester:
+### Spring 2020
  * Cade Dembski
  * Meg Houck
  * Andrew Hoyle
- * Braden Kronheim
+ * Daniel Lammens
  * Zach Nussbaum
+ * Kate Roberts
  * Eleni Tsitinidi
- * Ted Yoo
-
-## Students by Semester:
-
+ * Lexie Weghorn
+ 
 ### Fall 2019
   * John Blue
   * Meg Houck
