@@ -5,7 +5,7 @@ title: ALPhA Davidson
 
 # ALPhA Publications
 
-*ALPhA members are **in bold** in the author lists below.*
+*ALPhA members are **bold** in the author lists below.*
 
 ---------
 
