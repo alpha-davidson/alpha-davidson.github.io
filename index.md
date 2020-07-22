@@ -7,9 +7,24 @@ title: ALPhA Davidson
 <!-- <div class="blurb">-->
   <p>We focus on applying cutting-edge machine learning methods to 
 fundamental nuclear physics applications.</p>
-  <h2> ALPhA Summer Positions </h2>
+  <h2> ALPhA Fall 2020 Positions </h2>
+  <h3> Independent Research projects</h3>
+  <p>These projects can be crafted as a CSC independent study course or a PHY independent research course</p>
   <ul>
-  <li><b>Summer Research Fellow: Machine Learning for Jefferson Lab</b></li>
+  <li><b>Machine Learning for Jefferson Lab</b></li>
+        <ul>
+      <li>Project: Neural Networks to predict theoretical structure functions.</li>
+      <li>Description: Use deep neural networks to describe the 
+        internal structure of a nucleon (<em>structure functions</em>) from experimental and theoretical data</li>
+     </ul>
+  </ul>
+  
+  <h3> Paid positions</h3>
+  <p>These projects have a required weekly time commitment</p>
+  <ul>
+  <li><b><em>Coming Soon!</em></b></li>
+  </ul>
+  <!-- <li><b>Summer Research Fellow: Machine Learning for Jefferson Lab</b></li>
         <ul>
       <li>Funding source: Department of Energy</li> 
       <li>Project: Neural Networks to predict theoretical structure functions.</li>
@@ -23,7 +38,7 @@ fundamental nuclear physics applications.</p>
       <li>Description: Develop a proof of concept of using reinforcement learning for automatic beam tuning
         of hundreds of magnetic elements in the beam line at the new Facility for Rare Isotope Beams</li>
      </ul>
-    <li><em>Summer Research Fellow*: Machine Learning for Jefferson Lab</em>
+    <li><em>Summer Research Fellow: Machine Learning for Jefferson Lab</em>
     <ul>
       <li>Funding source: Center for Nuclear Femtography</li> 
       <li>Project: Neural Networks for inverse mapping</li>
@@ -31,14 +46,14 @@ fundamental nuclear physics applications.</p>
         to theoretical parameters in Quantum Chromodynamics </li>
      </ul>
     </li>
-        <li><em>Summer Web Developer*: Machine Learning for Jefferson Lab</em>
+        <li><em>Summer Web Developer: Machine Learning for Jefferson Lab</em>
     <ul>
       <li>Funding source: Center for Nuclear Femtography</li> 
       <li>Project: Heroku Web Application for ML models</li>
       <li>Description: Build interactive capabilities into a Heroku web app that allows users (theoretical nuclear physicists) to 
       interact with trained machine learning models to explore interesting phenomena of fundamental nuclear physics.</li>
      </ul>
-    </li>
+    </li>-->
   </ul>
-  <p>* These funds are not yet confirmed.</p>
+ 
 <!--</div><!-- /.blurb --> 
