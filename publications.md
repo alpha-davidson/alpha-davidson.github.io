@@ -11,7 +11,7 @@ title: ALPhA Davidson
 
 [*AI-based Monte Carlo event generator for electron-proton scattering*]() Y. Alanazi, P. Ambrozewicz, **M.P. Kuchera**, Y. Li, T. Liu, R.E.
   McClellan, W. Melnitchouk, **E. Pritchard**, **M. Robertson**, N. Sato, **R. Strauss**,
-  L. Velasco
+  L. Velasco, *submitted for review*, 2020.
 
 [*Bayesian Neural Networks for Fast SUSY Predictions*](https://arxiv.org/abs/2007.04506), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, **A. Karbo**, *submitted for review*, 2020.
 
