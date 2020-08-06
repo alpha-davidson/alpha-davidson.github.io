@@ -9,6 +9,8 @@ title: ALPhA Davidson
 
 ---------
 
+[*Unsupervised Learning for Identifying Events in Active Target Experiments*]() R. Solli, D. Bazin, **M.P. Kuchera**, **R.R. Strauss**, Morten Hjorth-Jensen, *submitted for review*, 2020.
+
 [*AI-based Monte Carlo event generator for electron-proton scattering*]() Y. Alanazi, P. Ambrozewicz, **M.P. Kuchera**, Y. Li, T. Liu, R.E.
   McClellan, W. Melnitchouk, **E. Pritchard**, **M. Robertson**, N. Sato, **R. Strauss**,
   L. Velasco, *submitted for review*, 2020.
