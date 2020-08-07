@@ -60,7 +60,7 @@ fundamental nuclear physics applications.</p>
       <li>Description: Build interactive capabilities into a Heroku web app that allows users (theoretical nuclear physicists) to 
       interact with trained machine learning models to explore interesting phenomena of fundamental nuclear physics.</li>
      </ul>
-    </li>-->
-  </ul>
+    </li>
+  </ul>-->
  
 <!--</div><!-- /.blurb --> 
