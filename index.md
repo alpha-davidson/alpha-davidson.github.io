@@ -18,6 +18,11 @@ fundamental nuclear physics applications.</p>
       <li>Description: Use deep neural networks to describe the 
         internal structure of a nucleon (<em>structure functions</em>) from experimental and theoretical data</li>
      </ul>
+    <li><b>Machine Learning for the Facility for Rare Isotope Beams</b></li>
+        <ul>
+      <li>Project: Generative models for realistic simulation</li>
+      <li>Description: Use deep generative architectures to create simulations of experiments in the Active-Target Time Projection Chamber</li>
+     </ul>
   </ul>
   
   <h3> Paid positions</h3>
@@ -25,14 +30,15 @@ fundamental nuclear physics applications.</p>
   <ul>
   <li><b><em>Coming Soon!</em></b></li>
   </ul>
-  <!-- <li><b>Summer Research Fellow: Machine Learning for Jefferson Lab</b></li>
+ <li><b>Research Fellow: Machine Learning for XXXb></li>
         <ul>
-      <li>Funding source: Department of Energy</li> 
-      <li>Project: Neural Networks to predict theoretical structure functions.</li>
-      <li>Description: Use deep neural networks with hidden predictions to predict functions that describe the 
-        internal structure of a nucleon (<em>structure functions</em>) from kinematic variables</li>
+      <li>Funding source: XXX</li> 
+      <li>Project: XXX</li>
+      <li>Description:XXX</li>
      </ul>
-  <li><b>Summer Research Fellow: Machine Learning for the Facility for Rare Isotope Beams</b></li>
+  </ul>   
+     
+  <!--  <li><b>Summer Research Fellow: Machine Learning for the Facility for Rare Isotope Beams</b></li>
      <ul>
       <li>Funding source: Davidson College</li> 
       <li>Project: Reinforcement learning for automatic beam tuning</li>
