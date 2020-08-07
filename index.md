@@ -29,8 +29,8 @@ fundamental nuclear physics applications.</p>
   <p>These projects have a required weekly time commitment</p>
   <ul>
   <li><b><em>Coming Soon!</em></b></li>
-  </ul>
- <li><b>Research Fellow: Machine Learning for XXXb></li>
+
+ <li><b>Research Fellow: Machine Learning for XXX</b></li>
         <ul>
       <li>Funding source: XXX</li> 
       <li>Project: XXX</li>
