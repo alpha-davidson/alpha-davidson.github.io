@@ -21,7 +21,7 @@ Dr. Michelle Kuchera and five ALPhA members presented their research at the DNP 
 *July 2019*
 ### ALPhA travels to the Thomas Jefferson National Accelerator Facility to work with collaborators
 
-Dr. Michelle Kuchera and four ALPhA members traveled to Newport News, VA to work with collaborators at the Thomas Jefferson National Accelerator Facility (Jefferson) and Old Dominion University (ODU). 
+Dr. Michelle Kuchera and four ALPhA members traveled to Newport News, VA to work with collaborators at the Thomas Jefferson National Accelerator Facility (Jefferson Lab) and Old Dominion University (ODU). 
 
 ![ALPhA JLab](images/JLab_down.jpg)
 *ALPhA on a tour of the Jefferson Lab experimental facilities.*
@@ -30,3 +30,14 @@ Dr. Michelle Kuchera and four ALPhA members traveled to Newport News, VA to work
 *ALPhA and our Jefferson Lab and ODU collaborators.*
 
 --------------
+
+*May 2019*
+### ALPhA travels to the Facility for Rare Isotope Beams for Summer School and Collaboration
+
+Dr. Raghu Ramanujan and Dr. Michelle Kuchera taught at the Facility for Rare Isotope Beams (FRIB) Theory Alliance Summer School in East Lansing, Michigan. ALPhA members attended at taching assistants and particpants. The group also spent time working with collaborators.
+
+![ALPhA JLab](images/JLab_down.jpg)
+*ALPhA on a tour of the Jefferson Lab experimental facilities.*
+
+![Tabor DNP 2019](images/JLab_collab.jpg)
+*ALPhA and our Jefferson Lab and ODU collaborators.*
