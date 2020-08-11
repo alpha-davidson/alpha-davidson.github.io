@@ -36,8 +36,8 @@ Dr. Michelle Kuchera and four ALPhA members traveled to Newport News, VA to work
 
 Dr. Raghu Ramanujan and Dr. Michelle Kuchera taught at the Facility for Rare Isotope Beams (FRIB) Theory Alliance Summer School in East Lansing, Michigan. ALPhA members attended at taching assistants and particpants. The group also spent time working with collaborators.
 
-![ALPhA JLab](images/JLab_down.jpg)
-*ALPhA on a tour of the Jefferson Lab experimental facilities.*
+![Tabor DNP 2019](images/ALPhA_S800.jpg)
+*ALPhA on a tour of the FRIB experimental facilities.*
 
-![Tabor DNP 2019](images/JLab_collab.jpg)
-*ALPhA and our Jefferson Lab and ODU collaborators.*
+![ALPhA JLab](images/ML_SS2019_group.jpg)
+*Dr. Morten Hjorth-Jensen, Dr. Raghu Ramanujan, and Dr. Michelle Kuchera preparing for their summer school lectures.*
