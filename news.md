@@ -40,4 +40,4 @@ Dr. Raghu Ramanujan and Dr. Michelle Kuchera taught at the Facility for Rare Iso
 *ALPhA on a tour of the FRIB experimental facilities.*
 
 ![ALPhA JLab](images/ML_SS2019_group.jpg)
-*Dr. Morten Hjorth-Jensen, Dr. Raghu Ramanujan, and Dr. Michelle Kuchera preparing for their summer school lectures.*
+Students listen attentively to the summer school lectures. Students came from all over the U.S. and other countries to attend this school.
