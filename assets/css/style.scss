@@ -42,7 +42,7 @@ img.project-name {
 #downloads {
     position: absolute;
   
-    width: 750px;
+    width: 550px;
     z-index: 10;
     //bottom: -40px;
     right: 0;
@@ -80,3 +80,6 @@ img.project-name {
   text-decoration: none;
 }
 
+#main_content_wrap {
+  border: none;
+}
