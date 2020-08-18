@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+body {
+ background-color: #ffffff; 
+}
 a img {outline : none;}
 /*header {
   background-color: #ffffff;
