@@ -86,3 +86,8 @@ img.project-name {
 .inner {
  max-width: 740px;
 }
+
+@media screen and (max-width: 480px)
+#downloads {
+    display: block;
+}
