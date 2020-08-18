@@ -37,14 +37,16 @@ img.project-name {
 
 
 #downloads {
-    //position: absolute;
+    position: absolute;
+  
     width: 750px;
     z-index: 10;
     //bottom: -40px;
     right: 0;
+    top:60px;
     height: 70px;
     //background: none;
-  background-color: #aaaaaa;
+    background-color: #aaaaaa;
     //background: url("../images/icon_download.png") no-repeat 0% 90%
     //background-color: #111111;
     //border-radius: 8px;
@@ -58,11 +60,12 @@ img.project-name {
     //text-indent: -5000px;
     //color: #ffffff;
     color: #000000;
+  background-color: #eeeeee;
     overflow: hidden;
     //background:url(../images/sprite_download.png) no-repeat bottom left
     //background-color: #333333;
     //border-radius: 8px; 
-    //text-align: center;
+    text-align: center;
     font-weight: bold;
 }
 
