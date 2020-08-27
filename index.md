@@ -10,7 +10,7 @@ fundamental nuclear physics applications.</p>
 <p><a href="https://github.com/alpha-davidson">Check out our published code here.</a></p>
   <h2> ALPhA Fall 2020 Positions </h2>
   <h3> Independent Research projects</h3>
-  <p>These projects can be crafted as a CSC independent study course or a PHY independent research course</p>
+  <p>These projects can be crafted as a CSC independent study course or a PHY independent research course. Contact Dr. Kuchera or Dr. Ramanujan to learn more!</p>
   <ul>
   <li><b>Machine Learning for Jefferson Lab</b></li>
         <ul>
