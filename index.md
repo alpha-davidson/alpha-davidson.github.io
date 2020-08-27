@@ -28,13 +28,13 @@ fundamental nuclear physics applications.</p>
   <h3> Paid positions</h3>
   <p>These projects have a required weekly time commitment</p>
   <ul>
-  <li><b><em>Coming Soon!</em></b></li>
+  
 
- <li><b>Research Fellow: Machine Learning for XXX</b></li>
+ <li><b>Research Fellow: Machine Learning for FRIB</b></li>
         <ul>
-      <li>Funding source: XXX</li> 
-      <li>Project: XXX</li>
-      <li>Description:XXX</li>
+      <li>Funding source: National Science Foundation</li> 
+      <li>Project: Event classification for event recognition</li>
+      <li>Description: Data was collected from Magnesium-22 nuclei incident on a Helium target. Use machine learning to select events of interest in this dataset.</li>
      </ul>
   </ul>   
      
