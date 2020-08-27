@@ -26,7 +26,7 @@ fundamental nuclear physics applications.</p>
   </ul>
   
   <h3> Paid positions</h3>
-  <p>These projects have a required weekly time commitment</p>
+  <p>These projects have a required weekly time commitment of 9 hours per week. Apply here: <a href="https://forms.gle/TenNo5wL9z3sEeyv5">https://forms.gle/TenNo5wL9z3sEeyv5</a></p>
   <ul>
   
 
