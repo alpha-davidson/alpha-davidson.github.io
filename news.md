@@ -6,6 +6,13 @@ title: ALPhA Davidson
 # News
 
 ---------------
+*October 2020*
+### ALPhA presents at the (virtual) 2020 American Physical Society Division of Nuclear Physics Conference
+
+Dr. Michelle Kuchera and five ALPhA members from three instiutions presented their research at the DNP conference, which is held annually. 
+
+
+---------------
 *October 2019*
 ### ALPhA presents at the 2019 American Physical Society Division of Nuclear Physics Conference
 
