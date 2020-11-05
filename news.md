@@ -19,7 +19,7 @@ Dr. Michelle Kuchera and five ALPhA members from three instiutions presented the
 
 It wasn't a normal summer for anyone, including ALPhA. ALPhA's summer research went entirely virtual, with 9 students from 4 institutions working from locations around the world in collaboration with two national laboratories.
 
-![ALPhA Summer 2020](images/Summer2020_ALPhA.jpg)
+![ALPhA Summer 2020](images/Summer2020_ALPhA.png)
 *The last ALPhA group meeting of the summer.*
 
 ---------------
