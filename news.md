@@ -11,7 +11,7 @@ title: ALPhA Davidson
 
 Dr. Michelle Kuchera and five ALPhA members from three instiutions presented their research at the APS DNP conference, which is held annually. This year's conference was virtual, and although we all wished we could be together in New Orleans, ALPhA's work drew a lot of interest in the community.
 
-![DNP 2020](images/DNP2020_ALPhA.jpg)
+![DNP 2020](images/DNP2020_Landis.jpg)
 
 ---------------
 *August 2020*
