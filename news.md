@@ -9,8 +9,18 @@ title: ALPhA Davidson
 *October 2020*
 ### ALPhA presents at the (virtual) 2020 American Physical Society Division of Nuclear Physics Conference
 
-Dr. Michelle Kuchera and five ALPhA members from three instiutions presented their research at the DNP conference, which is held annually. 
+Dr. Michelle Kuchera and five ALPhA members from three instiutions presented their research at the APS DNP conference, which is held annually. This year's conference was virtual, and although we all wished we could be together in New Orleans, ALPhA's work drew a lot of interest in the community.
 
+![DNP 2020](images/DNP2020_ALPhA.jpg)
+
+---------------
+*August 2020*
+### ALPhA summer research concludes
+
+It wasn't a normal summer for anyone, including ALPhA. ALPhA's summer research went entirely virtual, with 9 students from 4 institutions working from locations around the world in collaboration with two national laboratories.
+
+![ALPhA Summer 2020](images/Summer2020_ALPhA.jpg)
+*The last ALPhA group meeting of the summer.*
 
 ---------------
 *October 2019*
