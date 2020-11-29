@@ -28,8 +28,6 @@ fundamental nuclear physics applications.</p>
   <h3> Paid positions</h3>
   <p>These projects have a required weekly time commitment of 9 hours per week. Apply here: <a href="https://forms.gle/NWuip5Uzr2oVy7Tw8">https://forms.gle/NWuip5Uzr2oVy7Tw8</a></p>
   <ul>
-  
-
  <li><b>Research Fellow: Machine Learning for FRIB</b></li>
         <ul>
       <li>Funding source: National Science Foundation</li> 
@@ -37,8 +35,8 @@ fundamental nuclear physics applications.</p>
       <li>Description: Implement machine learning methods for determining the physics of nuclear reactions at FRIB.</li>
      </ul>
      
-    <li><b>Research Fellow: Machine Learning for JLab</b></li>
-        <ul>
+ <li><b>Research Fellow: Machine Learning for JLab</b></li>
+   <ul>
       <li>Funding source: Department of Energy</li> 
       <li>Project: Extracting quantum distributions from experimental data</li>
       <li>Description: Use neural networks and adversarial networks to extract physics information from experimental data.</li>
