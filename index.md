@@ -8,7 +8,7 @@ title: ALPhA Davidson
   <p>We focus on applying cutting-edge machine learning methods to 
 fundamental nuclear physics applications.</p>
 <p><a href="https://github.com/alpha-davidson">Check out our published code here.</a></p>
-  <h2> ALPhA Fall 2020 Positions </h2>
+  <h2> ALPhA Spring 2021 Positions </h2>
   <h3> Independent Research projects</h3>
   <p>These projects can be crafted as a CSC independent study course or a PHY independent research course. Contact Dr. Kuchera or Dr. Ramanujan to learn more!</p>
   <ul>
@@ -26,15 +26,22 @@ fundamental nuclear physics applications.</p>
   </ul>
   
   <h3> Paid positions</h3>
-  <p>These projects have a required weekly time commitment of 9 hours per week. Apply here: <a href="https://forms.gle/TenNo5wL9z3sEeyv5">https://forms.gle/TenNo5wL9z3sEeyv5</a></p>
+  <p>These projects have a required weekly time commitment of 9 hours per week. Apply here: <a href="https://forms.gle/NWuip5Uzr2oVy7Tw8">https://forms.gle/NWuip5Uzr2oVy7Tw8</a></p>
   <ul>
   
 
  <li><b>Research Fellow: Machine Learning for FRIB</b></li>
         <ul>
       <li>Funding source: National Science Foundation</li> 
-      <li>Project: Event classification for event recognition</li>
-      <li>Description: Data was collected from Magnesium-22 nuclei incident on a Helium target. Use machine learning to select events of interest in this dataset.</li>
+      <li>Project: Extract information from detectors.</li>
+      <li>Description: Implement machine learning methods for determining the physics of nuclear reactions at FRIB.</li>
+     </ul>
+     
+    <li><b>Research Fellow: Machine Learning for JLab</b></li>
+        <ul>
+      <li>Funding source: Department of Energy</li> 
+      <li>Project: Extracting quantum distributions from experimental data</li>
+      <li>Description: Use neural networks and adversarial networks to extract physics information from experimental data.</li>
      </ul>
   </ul>   
      
