@@ -8,7 +8,7 @@ title: ALPhA Davidson
 *ALPhA members are **bold** in the author lists below.*
 
 ---------
-[*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://doi.org/10.1016/j.physletb.2020.136041)  **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, Physics Letters B, Volume 813 (2021) 136041, ISSN 0370-2693,https://doi.org/10.1016/j.physletb.2020.136041
+[*Bayesian Nural Networks for Fast SUSY Predictions*](https://doi.org/10.1016/j.physletb.2020.136041)  **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, A. Karbo Physics Letters B, Volume 813 (2021) 136041, ISSN 0370-2693,https://doi.org/10.1016/j.physletb.2020.136041
 
 [*cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network*](tbd) L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, **M.P. Kuchera**, Yasir Alanazi, Yaohang Li, *accepted for publication, ICMLA*, 2020.
 
@@ -18,7 +18,7 @@ title: ALPhA Davidson
   McClellan, W. Melnitchouk, **E. Pritchard**, **M. Robertson**, N. Sato, **R. Strauss**,
   L. Velasco, *submitted for review*, 2020.
 
-[*Bayesian Neural Networks for Fast SUSY Predictions*](https://arxiv.org/abs/2007.04506), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, **A. Karbo**, *submitted for review*, 2020.
+[*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://arxiv.org/abs/2009.14393), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, *submitted for review*, 2020.
 
 [*Report from the A.I. For Nuclear Physics Workshop*](https://arxiv.org/abs/2006.05422), P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, **M.P. Kuchera**, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang. *Whitepaper for the Department of Energy and the National Science Foundation*. 2020.
 
