@@ -10,7 +10,7 @@ title: ALPhA Davidson
 ---------
 [*Bayesian Nural Networks for Fast SUSY Predictions*](https://doi.org/10.1016/j.physletb.2020.136041)  **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, A. Karbo Physics Letters B, Volume 813 (2021) 136041, ISSN 0370-2693,https://doi.org/10.1016/j.physletb.2020.136041
 
-cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network* L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, **M.P. Kuchera**, Yasir Alanazi, Yaohang Li, *accepted for publication, ICMLA*, 2020.
+cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, **M.P. Kuchera**, Yasir Alanazi, Yaohang Li, *accepted for publication, ICMLA*, 2020.
 
 [*Unsupervised Learning for Identifying Events in Active Target Experiments*](https://arxiv.org/abs/2008.02757) R. Solli, D. Bazin, **M.P. Kuchera**, **R.R. Strauss**, Morten Hjorth-Jensen, *submitted for review*, 2020.
 
