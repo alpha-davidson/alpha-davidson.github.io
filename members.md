@@ -10,6 +10,22 @@ title: ALPhA Davidson
  * Michelle Kuchera
  * Raghu Ramanujan
 ### Students:
+ * Khalil Adams
+ * John Blue
+ * Sebastian Charmot
+ * William Clark
+ * Chase Coley
+ * Oğuzhan Çölkesen
+ * Cade Dembski
+ * Andrew Hoyle
+ * Sidney Knowles
+ * Braden Kronheim
+ * Eleni Tsitinidi
+ * Annabel Winters-McCabe
+
+## Students by Semester:
+
+### Fall 2020:
  * John Blue
  * Cade Dembski
  * Andrew Hoyle
@@ -17,8 +33,8 @@ title: ALPhA Davidson
  * Daniel Lammens
  * Eleni Tsitinidi
  * Annabel Winters-McCabe
-
-## Students by Semester:
+ 
+ 
 ### Summer 2020
  * Nade Bai
  * Cade Dembski
