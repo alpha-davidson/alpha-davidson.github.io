@@ -16,7 +16,7 @@ title: ALPhA Davidson
  * William Clark
  * Chase Coley
  * Oğuzhan Çölkesen
- * Cade Dembski
+ * Cade Dembski (Michigan State University)
  * Andrew Hoyle
  * Sidney Knowles
  * Braden Kronheim
@@ -27,7 +27,7 @@ title: ALPhA Davidson
 
 ### Fall 2020:
  * John Blue
- * Cade Dembski
+ * Cade Dembski (Michigan State University)
  * Andrew Hoyle
  * Braden Kronheim
  * Daniel Lammens
@@ -37,18 +37,18 @@ title: ALPhA Davidson
  
 ### Summer 2020
  * Nade Bai
- * Cade Dembski
+ * Cade Dembski (Michigan State University)
  * Andrew Hoyle
  * Daniel Lammens
- * Kate Roberts
+ * Kate Roberts (Kalamazoo College)
  * Rida Shahid
  * Eleni Tsitinidi
  * Annabel Winters-McCabe
- * Lexie Weghorn
+ * Lexie Weghorn (Univ. of Wisconsin LaCrosse)
 
 ### Spring 2020
  * John Blue
- * Cade Dembski
+ * Cade Dembski (Michigan State University)
  * Meg Houck
  * Andrew Hoyle
  * Braden Kronheim
@@ -65,10 +65,10 @@ title: ALPhA Davidson
 
 ### Summer 2019
   * John Blue
-  * Jose Cruz (CPCC)
+  * Jose Cruz (Central Piedmont Community College)
   * Meg Houck
   * Braden Kronheim
-  * Dulce Pacheco (JCSU)
+  * Dulce Pacheco (Johnson C. Smith Univ.)
   * Evan Pritchard
   * Michael Robertson
   * Eleni Tsitinidi
