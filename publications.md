@@ -9,7 +9,7 @@ title: ALPhA Davidson
 
 ---------
 
-[Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production](https://arxiv.org/abs/2002.02619) **S. G. Frederick**, **M.P. Kuchera**, Kristen L. Thompson. Monthly Notices of the Royal Astronomical Society, 2021;, stab625, https://doi.org/10.1093/mnras/stab625
+[Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production](https://arxiv.org/abs/2002.02619) **S. G. Frederick**, **M.P. Kuchera**, Kristen L. Thompson. Monthly Notices of the Royal Astronomical Society, 2021, stab625, https://doi.org/10.1093/mnras/stab625
 
 [*Bayesian Neural Networks for Fast SUSY Predictions*](https://doi.org/10.1016/j.physletb.2020.136041)  **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, **A. Karbo** Physics Letters B, Volume 813 (2021) 136041, ISSN 0370-2693, https://doi.org/10.1016/j.physletb.2020.136041
 
