@@ -16,6 +16,8 @@ title: ALPhA Davidson
 [*cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network*](https://ieeexplore.ieee.org/document/9356177) L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, **M.P. Kuchera**, Yasir Alanazi, Yaohang Li, 19th IEEE International Conference on Machine Learning and Applications (ICMLA), Miami, FL, USA, 2020, pp. 372-375, doi: 10.1109/ICMLA51294.2020.00066.
 
 
+[*A.I. For Nuclear Physics*](https://link.springer.com/article/10.1140/epja/s10050-020-00290-x), P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, **M.P. Kuchera**, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang. The European Physical Journal A volume 57, 100 (2021)
+
 [*Report from the A.I. For Nuclear Physics Workshop*](https://arxiv.org/abs/2006.05422), P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, **M.P. Kuchera**, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang. *Whitepaper for the Department of Energy and the National Science Foundation*. 2020.
 
 
