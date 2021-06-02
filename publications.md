@@ -8,6 +8,9 @@ title: ALPhA Davidson
 *ALPhA members are **bold** in the author lists below.*
 
 ---------
+[*Unsupervised Learning for Identifying Events in Active Target Experiments*](https://arxiv.org/abs/2008.02757) **R. Solli**, D. Bazin, Morten Hjorth-Jensen, **M.P. Kuchera**, **R.R. Strauss** Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2021, 165461, ISSN 0168-9002, https://doi.org/10.1016/j.nima.2021.165461.
+
+
 
 [Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production](https://academic.oup.com/mnras/article-abstract/503/2/2764/6164856) **S. G. Frederick**, **M.P. Kuchera**, Kristen L. Thompson. Monthly Notices of the Royal Astronomical Society, 2021, stab625, https://doi.org/10.1093/mnras/stab625
 
@@ -32,7 +35,6 @@ title: ALPhA Davidson
 ## Submitted for Review
 
 
-[*Unsupervised Learning for Identifying Events in Active Target Experiments*](https://arxiv.org/abs/2008.02757) R. Solli, D. Bazin, **M.P. Kuchera**, **R.R. Strauss**, Morten Hjorth-Jensen, *submitted for review*, 2020.
 
 [*AI-based Monte Carlo event generator for electron-proton scattering*](https://arxiv.org/abs/2008.03151) Y. Alanazi, P. Ambrozewicz, **M.P. Kuchera**, Y. Li, T. Liu, R.E.
   McClellan, W. Melnitchouk, **E. Pritchard**, **M. Robertson**, N. Sato, **R. Strauss**,
