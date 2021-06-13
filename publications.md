@@ -8,6 +8,11 @@ title: ALPhA Davidson
 *ALPhA members are **bold** in the author lists below.*
 
 ---------
+
+
+[*Simulation of electron-proton scattering events by a Feature-Augmented and Transformed Generative Adversarial Network (FAT-GAN)*](https://arxiv.org/abs/2001.11103), Y. Alanazi, N. Sato, T. Liu, W. Melnitchouk, **M. P. Kuchera**, **E. Pritchard**, **M. Robertson**, **R.R. Strauss**, L. Velasco, Y. Li. *accepted*. 30th International Joint Conference on Artificial Intelligence (2021).
+
+
 [*Unsupervised Learning for Identifying Events in Active Target Experiments*](https://arxiv.org/abs/2008.02757) **R. Solli**, D. Bazin, Morten Hjorth-Jensen, **M.P. Kuchera**, **R.R. Strauss** Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2021, 165461, ISSN 0168-9002, https://doi.org/10.1016/j.nima.2021.165461.
 
 
@@ -42,4 +47,4 @@ title: ALPhA Davidson
 
 [*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://arxiv.org/abs/2009.14393), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, *submitted for review*, 2020.
 
-[*Simulation of electron-proton scattering events by a Feature-Augmented and Transformed Generative Adversarial Network (FAT-GAN)*](https://arxiv.org/abs/2001.11103), Y. Alanazi, N. Sato, T. Liu, W. Melnitchouk, **M. P. Kuchera**, **E. Pritchard**, **M. Robertson**, **R.R. Strauss**, L. Velasco, Y. Li. *Submitted for review*. 2020.
+
