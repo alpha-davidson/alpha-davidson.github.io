@@ -9,7 +9,7 @@ title: ALPhA Davidson
 
 ---------
 
-[*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://arxiv.org/abs/2009.14393), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, *accepted*. Computer Physics Communications, 2020.
+[*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://arxiv.org/abs/2009.14393), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, *accepted*. Computer Physics Communications, 2021.
 
 
 [*Simulation of electron-proton scattering events by a Feature-Augmented and Transformed Generative Adversarial Network (FAT-GAN)*](https://arxiv.org/abs/2001.11103), Y. Alanazi, N. Sato, T. Liu, W. Melnitchouk, **M. P. Kuchera**, **E. Pritchard**, **M. Robertson**, **R.R. Strauss**, L. Velasco, Y. Li. *accepted*. 30th International Joint Conference on Artificial Intelligence (2021).
