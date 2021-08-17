@@ -6,6 +6,18 @@ title: ALPhA Davidson
 # News
 
 ---------------
+*August 2021*
+
+
+### ALPhA concludes a successful summer research program
+For the second year in a row, the ALPhA summer program was primarily virtual. Twelve students worked in collaboration with scientists at the Facilty for Rare Isotope Beams, the Thomas Jefferson National Accelerator Facility, and CERN. 
+
+<!-- John presented his work at the XXX, Braden presented his work at -->
+
+![Lunch in Davidson 2021](images/Lunch_Summer2021.jpg)
+![Zoom 2021](images/ALPhA-Su2021.png)
+
+---------------
 *October 2020*
 ### ALPhA presents at the (virtual) 2020 American Physical Society Division of Nuclear Physics Conference
 
