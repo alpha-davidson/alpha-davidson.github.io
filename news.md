@@ -14,7 +14,7 @@ For the second year in a row, the ALPhA summer program was primarily virtual. Tw
 
 <!-- John presented his work at the XXX, Braden presented his work at -->
 
-![Lunch in Davidson 2021](images/Lunch_Summer2021.jpg)
+![Lunch in Davidson 2021](images/ALPhA_Lunch_2021.jpg)
 ![Zoom 2021](images/ALPhA-Su2021.png)
 
 ---------------
