@@ -9,7 +9,7 @@ title: ALPhA Davidson
 
 ---------
 
-[*Conditional Wasserstein Generative Adversarial Networks for Fast Detector Simulation*]() **JohnBlue**, **BradenKronheim**, **MichelleKuchera**, and **Raghuram Ramanujan**. 25th International Conference on Computing in High Energy and Nuclear Physics (CHEP). Computational European Physical Journal (EPJ) Web of Conferences. *accepted*. 2021.
+[*Conditional Wasserstein Generative Adversarial Networks for Fast Detector Simulation*]() **John Blue**, **Braden Kronheim**, **Michelle Kuchera**, and **Raghuram Ramanujan**. 25th International Conference on Computing in High Energy and Nuclear Physics (CHEP). Computational European Physical Journal (EPJ) Web of Conferences. *accepted*. 2021.
 
 [*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://arxiv.org/abs/2009.14393), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, *accepted*. Computer Physics Communications, 2021.
 
