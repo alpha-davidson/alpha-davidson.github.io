@@ -41,13 +41,5 @@ title: ALPhA Davidson
 [*Commissioning of the Active-Target Time Projection Chamber*](https://www.sciencedirect.com/science/article/pii/S0168900217309683) J. Bradt, D. Bazin, F. Abu-Nimeh, T. Ahn, Y. Ayyad, S. Beceiro-Novo, L. Carpenter, M. Cortesi, **M.P. Kuchera**, W.G. Lynch, W. Mittig, S. Rost, N. Watwood, J. Yurkon. Nucl. Instr. Meth. A. (2017) [https://doi.org/10.1016/j.nima.2017.09.013](https://doi.org/10.1016/j.nima.2017.09.013)
 
 
-## Submitted for Review
-
-
-
-[*AI-based Monte Carlo event generator for electron-proton scattering*](https://arxiv.org/abs/2008.03151) Y. Alanazi, P. Ambrozewicz, **M.P. Kuchera**, Y. Li, T. Liu, R.E.
-  McClellan, W. Melnitchouk, **E. Pritchard**, **M. Robertson**, N. Sato, **R. Strauss**,
-  L. Velasco, *submitted for review*, 2020.
-
 
 
