@@ -10,6 +10,30 @@ title: ALPhA Davidson
  * Michelle Kuchera
  * Raghu Ramanujan
 ### Students:
+ * Paul Choi
+ * Cade Dembski (Michigan State University)
+ * Sidney Knowles
+ * Kate Phillips (Mississippi State University)
+ * Brad Shook
+ * Luca Voichick
+
+
+## Students by Semester:
+### Summer 2021
+ * Anela Davis
+ * Cade Dembski (Michigan State University)
+ * Andrew Hoyle
+ * Sidney Knowles
+ * Braden Kronheim
+ * Tim Ladoceur (Michigan State University)
+ * Niya Ma
+ * Erika Navarro
+ * Mike Remezo
+ * Andrew Rice
+ * Brad Shook
+ * Aislinn Whalen
+
+### Spring 2021:
  * Khalil Adams
  * John Blue
  * Sebastian Charmot
@@ -22,8 +46,6 @@ title: ALPhA Davidson
  * Braden Kronheim
  * Eleni Tsitinidi
  * Annabel Winters-McCabe
-
-## Students by Semester:
 
 ### Fall 2020:
  * John Blue
