@@ -19,7 +19,7 @@ title: ALPhA Davidson
 
 [*Unsupervised Learning for Identifying Events in Active Target Experiments*](https://arxiv.org/abs/2008.02757) **R. Solli**, D. Bazin, Morten Hjorth-Jensen, **M.P. Kuchera**, **R.R. Strauss**, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, 2021, 165461, ISSN 0168-9002, https://doi.org/10.1016/j.nima.2021.165461.
 
-
+[*Variational Autoencoder Inverse Mapper: An End-to-End Deep Learning Framework for Inverse Problems*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534012&isnumber=9533267) M. Almaeen, Y. Alanazi, N. Sato, W. Melnitchouk,**M. P. Kuchera** and Y. Li. *2021 International Joint Conference on Neural Networks (IJCNN)*, 2021, pp. 1-8, doi: 10.1109/IJCNN52387.2021.9534012
 
 [*Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production*](https://academic.oup.com/mnras/article-abstract/503/2/2764/6164856) **S. G. Frederick**, **M.P. Kuchera**, Kristen L. Thompson. Monthly Notices of the Royal Astronomical Society, 2021, stab625, https://doi.org/10.1093/mnras/stab625
 
