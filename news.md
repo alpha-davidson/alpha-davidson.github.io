@@ -5,6 +5,19 @@ title: ALPhA Davidson
 
 # News
 
+
+---------------
+*November 2021*
+
+
+### ALPhA presents at the Southeast Section of the APS Meeting
+Students were afforded their first opportunity to present in person in over two years at the Southeast Section of the American Physical Society meeting in Tallahassee, FL.
+
+<!-- John presented his work at the XXX, Braden presented his work at -->
+
+![students at Dirac statue](images/Dirac.JPEG)
+
+
 ---------------
 *August 2021*
 
