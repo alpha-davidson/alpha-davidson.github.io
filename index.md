@@ -9,9 +9,9 @@ title: ALPhA Davidson
 fundamental nuclear physics applications.</p>
 <p><a href="https://github.com/alpha-davidson">Check out our published code here.</a></p>
   <!--<h2> ALPhA Summer 2021 Positions -- Now hiring!</h2>-->
-  <h2>ALPhA Research Opportunities -- Fall 2021</h2>
+  <h2>ALPhA Research Opportunities -- Spring 2022</h2>
 <h3> Independent Research projects</h3>
-<p>These projects can be crafted as a CSC independent study course or a PHY independent research course. Contact Dr. Kuchera or Dr. Ramanujan to learn more!</p> 
+<p>These projects can be crafted as a CSC independent study course or a PHY independent research course. Contact Dr. Kuchera or Dr. Ramanujan before the semester starts to learn more!</p> 
 <!-- <p> We have five paid positions open for Summer 2021 in collaboration with the Facility for Rare Isotope Beams and Jefferson Lab. No prior nuclear physics or machine learning expertise is expected. We have worked with students that are physics, mathematics, and computer science majors/minors and more. Due to the ongoing pandemic, we anticipate these positions to be remote, but can discuss and hopefully accommodate your personal remote or on-campus needs.</p>
  <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLScLcIDtczmAEI5FZus1jRR5YWpBor1QRjrpWcSgLkE2k9Fc5Q/viewform">Apply here!</a></h3> -->
   <ul>
