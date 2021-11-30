@@ -9,6 +9,8 @@ title: ALPhA Davidson
 
 ---------
 
+[*Implicit Quantile Neural Networks for Jet Simulation and Correction*](https://arxiv.org/pdf/2111.11415.pdf) **Braden Kronheim**, **Michelle P. Kuchera**, Harrison B. Prosper, **Raghuram Ramanujan**, *accepted*. NeurIPS Machine Learning and the Physical Sciences workshop. 2021.
+
 [*Conditional Wasserstein Generative Adversarial Networks for Fast Detector Simulation*](https://www.epj-conferences.org/articles/epjconf/pdf/2021/05/epjconf_chep2021_03055.pdf) **John Blue**, **Braden Kronheim**, **Michelle Kuchera**, and **Raghuram Ramanujan**. 25th International Conference on Computing in High Energy and Nuclear Physics (CHEP). Computational European Physical Journal (EPJ) Web of Conferences 251, 03055 (2021). https://doi.org/10.1051/epjconf/202125103055
 
 [*TensorBNN: Bayesian Inference for Neural Networks using Tensorflow*](https://arxiv.org/abs/2009.14393), **B. Kronheim**, **M.P. Kuchera**, H.B. Prosper, Computer Physics Communications 270 (2022) 108168. https://doi.org/10.1016/j.cpc.2021.108168
