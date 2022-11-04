@@ -9,7 +9,7 @@ title: ALPhA Davidson
 
 ---------
 
-[*Machine Learning in Nuclear Physics*](https://arxiv.org/pdf/2112.02309.pdf) Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, **Michelle P. Kuchera**, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler. *accepted*. Reviews of Modern Physics. 2022.
+[*Machine Learning in Nuclear Physics*](https://arxiv.org/pdf/2112.02309.pdf) Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, **Michelle P. Kuchera**, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler. Reviews of Modern Physics. 94, 031003 (2022).
 
 [*Implicit Quantile Neural Networks for Jet Simulation and Correction*](https://arxiv.org/pdf/2111.11415.pdf) **Braden Kronheim**, **Michelle P. Kuchera**, Harrison B. Prosper, **Raghuram Ramanujan**.NeurIPS Machine Learning and the Physical Sciences workshop. 2021.
 
