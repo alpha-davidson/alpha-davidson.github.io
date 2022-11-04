@@ -8,6 +8,8 @@ title: ALPhA Davidson
 *ALPhA members are **bold** in the author lists below.*
 
 ---------
+ 
+[*Machine learning-based event generator for electron-proton scattering*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.096002) Y. Alanazi, P. Ambrozewicz, M. Battaglieri, A. N. Hiller Blin, **M. P. Kuchera**, Y. Li, T. Liu, R. E. McClellan, W. Melnitchouk, **E. Pritchard***, **M. Robertson**, N. Sato, **R. Strauss**, and L. Velasco
 
 [*Machine Learning in Nuclear Physics*](https://arxiv.org/pdf/2112.02309.pdf) Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, **Michelle P. Kuchera**, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler. Reviews of Modern Physics. 94, 031003 (2022).
 
