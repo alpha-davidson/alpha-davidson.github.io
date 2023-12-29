@@ -8,6 +8,8 @@ title: ALPhA Davidson
 *ALPhA members are **bold** in the author lists below.*
 
 ---------
+
+[*Two-dimensional total absorption spectroscopy with conditional generative adversarial networks*](https://www.sciencedirect.com/science/article/pii/S0168900223010264?dgcid=coauthor) **C. Dembski**, **M.P. Kuchera**, S. Liddick, **R. Ramanujan**, A. Spyrou, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, Volume 1060, 2024, 169026, ISSN 0168-9002, https://doi.org/10.1016/j.nima.2023.169026.
  
 [*Machine learning-based event generator for electron-proton scattering*](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.096002) Y. Alanazi, P. Ambrozewicz, M. Battaglieri, A. N. Hiller Blin, **M. P. Kuchera**, Y. Li, T. Liu, R. E. McClellan, W. Melnitchouk, **E. Pritchard**, **M. Robertson**, N. Sato, **R. Strauss**, and L. Velasco. Phys. Rev. D 106, 096002 (2022).
 
