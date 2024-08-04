@@ -39,8 +39,29 @@
               <a class="page_link" href="{{ site.baseurl }}{% link index.md %}">Home</a>
             </section>
    <!--   {% endif %} -->
-
     </div>
+
+    <!-- HERO SECTION -->
+    <div class="hero">
+      <div class="wave-container">
+        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2880 320" preserveAspectRatio="none">
+          <defs>
+            <path id="wave1" d="M0,160 C480,100,960,280,1440,160 C1920,40,2400,220,2880,160 V320 H0 Z" />
+            <path id="wave2" d="M0,240 C480,140,960,320,1440,240 C1920,160,2400,320,2880,240 V320 H0 Z" />
+            <path id="wave3" d="M0,200 C480,220,960,180,1440,200 C1920,220,2400,180,2880,200 V320 H0 Z" />
+          </defs>
+          <use xlink:href="#wave1" class="wave wave1" x="0" y="0" />
+          <use xlink:href="#wave2" class="wave wave2" x="0" y="0" />
+          <use xlink:href="#wave3" class="wave wave3" x="0" y="0" />
+        </svg>
+      </div>
+      <div class="hero-content">
+        <h1>Advancing Nuclear Physics Through Machine Learning</h1>
+        <p>Pioneering innovative algorithms for groundbreaking discoveries</p>
+        <a href="#" class="cta-button">Join ALPhA</a>
+      </div>
+    </div>
+
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -69,5 +90,7 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <script src="src/script.js"></script>
   </body>
 </html>
