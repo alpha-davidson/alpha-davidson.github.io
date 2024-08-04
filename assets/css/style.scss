@@ -177,6 +177,10 @@ h1 {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.hero-content a {
+  text-decoration: none;
+}
+
 .cta-button:hover {
   background-color: #7a1526;
   transform: translateY(-2px);
