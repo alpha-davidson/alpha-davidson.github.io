@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALPhA News</title>
+    <link rel="stylesheet" href="../assets/css/news.css">
+</head>
+<body>
+    <header>
+        <h1>ALPhA News</h1>
+        <nav>
+            <ul>
+                <li><a href="#latest">Latest News</a></li>
+                <li><a href="#archive">Archive</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="search">
+            <input type="text" id="searchInput" placeholder="Search news...">
+            <button id="searchButton">Search</button>
+        </section>
+
+        <section id="searchResults" style="display: none;"></section>
+
+        <section id="latest">
+            <h2>Latest News</h2>
+            <div id="latestNews" class="news-grid"></div>
+        </section>
+
+        <section id="archive">
+            <h2>News Archive</h2>
+            <div id="archiveYears" class="year-buttons"></div>
+            <div id="archiveNews" class="news-grid"></div>
+        </section>
+
+        <!-- <section id="newsletter">
+            <h2>Subscribe to Our Newsletter</h2>
+            <form id="newsletterForm">
+                <input type="email" id="emailInput" placeholder="Enter your email">
+                <button type="submit">Subscribe</button>
+            </form>
+        </section> -->
+    </main>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script src="../src/newsData.js" type="module"></script>
+    <script src="../src/news.js" type="module"></script>
+</body>
+</html>

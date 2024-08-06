@@ -63,84 +63,65 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <h1 id="news">News</h1>
+        <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALPhA News</title>
+    <link rel="stylesheet" href="../assets/css/news.css">
+</head>
+<body>
+    <header>
+        <h1>ALPhA News</h1>
+        <nav>
+            <ul>
+                <li><a href="#latest">Latest News</a></li>
+                <li><a href="#archive">Archive</a></li>
+            </ul>
+        </nav>
+    </header>
 
-<hr />
-<p><em>November 2021</em></p>
+    <main>
+        <section id="search">
+            <input type="text" id="searchInput" placeholder="Search news...">
+            <button id="searchButton">Search</button>
+        </section>
 
-<h3 id="alpha-presents-at-the-southeast-section-of-the-aps-meeting">ALPhA presents at the Southeast Section of the APS Meeting</h3>
-<p>Students were afforded their first opportunity to present in person in over two years at the Southeast Section of the American Physical Society meeting in Tallahassee, FL.</p>
+        <section id="searchResults" style="display: none;"></section>
 
-<!-- John presented his work at the XXX, Braden presented his work at -->
+        <section id="latest">
+            <h2>Latest News</h2>
+            <div id="latestNews" class="news-grid"></div>
+        </section>
 
-<p><img src="images/Dirac.JPEG" alt="students at Dirac statue" /></p>
+        <section id="archive">
+            <h2>News Archive</h2>
+            <div id="archiveYears" class="year-buttons"></div>
+            <div id="archiveNews" class="news-grid"></div>
+        </section>
 
-<hr />
-<p><em>August 2021</em></p>
+        <!-- <section id="newsletter">
+            <h2>Subscribe to Our Newsletter</h2>
+            <form id="newsletterForm">
+                <input type="email" id="emailInput" placeholder="Enter your email">
+                <button type="submit">Subscribe</button>
+            </form>
+        </section> -->
+    </main>
 
-<h3 id="alpha-concludes-a-successful-summer-research-program">ALPhA concludes a successful summer research program</h3>
-<p>For the second year in a row, the ALPhA summer program was primarily virtual. Twelve students worked in collaboration with scientists at the Facilty for Rare Isotope Beams, the Thomas Jefferson National Accelerator Facility, and CERN.</p>
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalTitle"></h2>
+            <div id="modalBody"></div>
+        </div>
+    </div>
 
-<!-- John presented his work at the XXX, Braden presented his work at -->
-
-<p><img src="images/ALPhA_Lunch_2021.jpg" alt="Lunch in Davidson 2021" />
-<img src="images/ALPhA-Su2021.png" alt="Zoom 2021" /></p>
-
-<hr />
-<p><em>October 2020</em></p>
-<h3 id="alpha-presents-at-the-virtual-2020-american-physical-society-division-of-nuclear-physics-conference">ALPhA presents at the (virtual) 2020 American Physical Society Division of Nuclear Physics Conference</h3>
-
-<p>Dr. Michelle Kuchera and five ALPhA members from three instiutions presented their research at the APS DNP conference, which is held annually. This year’s conference was virtual, and although we all wished we could be together in New Orleans, ALPhA’s work drew a lot of interest in the community.</p>
-
-<p><img src="images/DNP2020_Landis.jpg" alt="DNP 2020" /></p>
-
-<hr />
-<p><em>August 2020</em></p>
-<h3 id="alpha-summer-research-concludes">ALPhA summer research concludes</h3>
-
-<p>It wasn’t a normal summer for anyone, including ALPhA. ALPhA’s summer research went entirely virtual, with 9 students from 4 institutions working from locations around the world in collaboration with two national laboratories.</p>
-
-<p><img src="images/Summer2020_ALPhA.png" alt="ALPhA Summer 2020" />
-<em>The last ALPhA group meeting of the summer.</em></p>
-
-<hr />
-<p><em>October 2019</em></p>
-<h3 id="alpha-presents-at-the-2019-american-physical-society-division-of-nuclear-physics-conference">ALPhA presents at the 2019 American Physical Society Division of Nuclear Physics Conference</h3>
-
-<p>Dr. Michelle Kuchera and five ALPhA members presented their research at the DNP conference, which is held annually. The 2019 conference was held in Washington, DC.</p>
-
-<p><img src="images/DNP2019_ALPhA.jpg" alt="ALPhA DNP 2019" />
-<em>ALPhA students were accepted to present and participate in the Conference Experience for Undergraduates.</em></p>
-
-<p><img src="images/DNP2019_Tabor.jpg" alt="Tabor DNP 2019" />
-<em>ALPhA students chatting with Dr. Sam L. Tabor, Dr. Michelle P. Kuchera’s undergraduate advisor, who was awarded the 2019 DNP Mentoring Award at the conference.</em></p>
-
-<hr />
-<p><em>July 2019</em></p>
-<h3 id="alpha-travels-to-the-thomas-jefferson-national-accelerator-facility-to-work-with-collaborators">ALPhA travels to the Thomas Jefferson National Accelerator Facility to work with collaborators</h3>
-
-<p>Dr. Michelle Kuchera and four ALPhA members traveled to Newport News, VA to work with collaborators at the Thomas Jefferson National Accelerator Facility (Jefferson Lab) and Old Dominion University (ODU).</p>
-
-<p><img src="images/JLab_down.jpg" alt="ALPhA JLab" />
-<em>ALPhA on a tour of the Jefferson Lab experimental facilities.</em></p>
-
-<p><img src="images/JLab_collab.jpg" alt="Tabor DNP 2019" />
-<em>ALPhA and our Jefferson Lab and ODU collaborators.</em></p>
-
-<hr />
-
-<p><em>May 2019</em></p>
-<h3 id="alpha-travels-to-the-facility-for-rare-isotope-beams-for-summer-school-and-collaboration">ALPhA travels to the Facility for Rare Isotope Beams for Summer School and Collaboration</h3>
-
-<p>Dr. Raghu Ramanujan and Dr. Michelle Kuchera taught at the Facility for Rare Isotope Beams (FRIB) Theory Alliance Summer School in East Lansing, Michigan. ALPhA members attended at taching assistants and particpants. The group also spent time working with collaborators.</p>
-
-<p><img src="images/ALPhA_S800.jpg" alt="Tabor DNP 2019" />
-<em>ALPhA on a tour of the FRIB experimental facilities.</em></p>
-
-<p><img src="images/ML_SS2019_group.jpg" alt="ALPhA JLab" /></p>
-
-<p><em>Students listen attentively to the summer school lectures. Graduate students and postdocs came from all over the U.S. and other countries to attend this school.</em></p>
-
+    <script src="../src/newsData.js" type="module"></script>
+    <script src="../src/news.js" type="module"></script>
+</body>
+</html>
       </section>
     </div>
 
@@ -185,7 +166,8 @@
     
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.14/lottie.min.js"></script>
-    <script src="src/script.js"></script>
+    <script src="src/newsData.js"></script>
+    <script type="module" src="src/script.js"></script>
     <script src="/src/github-repos.js"></script>
   </body>
 </html>
