@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+
+:root {
+  --alpha-primary: #7a0a1f;
+  --alpha-secondary: #f2f2f2;
+  --alpha-text: #333333;
+}
+
+
 body {
  background-color: #ffffff; 
 }
@@ -24,17 +32,17 @@ img.project-name {
     padding: 20px;
 }
 
-
 #downloads {
     position: absolute;
   
     width: 650px;
     z-index: 10;
     right: 0;
-    top:60px;
+    top: 60px;
     height: 70px;
     background: none;
 }
+
 .page_link {
     display: block;
     float: right;
@@ -349,3 +357,44 @@ h2 {
     margin-bottom: 30px;
   }
 }
+
+
+/* Navbar for different screen sizes */
+
+@media (max-width: 940px) {
+  #header_wrap {
+    display: flex;
+    flex-direction: column;
+    padding: none;
+    align-content: center;
+    padding: 0;
+  }
+
+  img.project-name {
+    display: block;
+    margin: 0 auto;
+    align-self: center;
+  }
+
+  #downloads {
+    display: flex;
+    flex-direction: column;
+    position: static;
+    width: 100%;
+    margin-bottom: 7.5rem;
+  }
+
+  .page_link {
+    display: block;
+    float: inline-start;
+    line-height: 70px;
+    margin: 0;
+    color: #000000;
+    background-color: var(--alpha-primary);
+    text-align: center;
+    width: 100%;
+    color: var(--alpha-secondary);
+  }
+}
+
+/* Navbar End */

@@ -1,5 +1,5 @@
 :root {
-    --alpha-primary: #9e1b32;
+    --alpha-primary: #7a0a1f;
     --alpha-secondary: #f2f2f2;
     --alpha-text: #333333;
 }
@@ -233,3 +233,10 @@ footer {
 .carousel-control.next {
     right: 10px;
 }
+
+
+@media (max-width: 940px) {
+    header {
+        margin-top: 4rem;
+    }
+}  
