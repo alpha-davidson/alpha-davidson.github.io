@@ -1,0 +1,121 @@
+- title: "Two-dimensional total absorption spectroscopy with conditional generative adversarial networks"
+  authors: "C. Dembski, M.P. Kuchera, S. Liddick, R. Ramanujan, A. Spyrou"
+  journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+  volume: "Volume 1060"
+  year: 2024
+  doi: "https://doi.org/10.1016/j.nima.2023.169026"
+  url: "https://www.sciencedirect.com/science/article/pii/S0168900223010264?dgcid=coauthor"
+
+- title: "Machine learning-based event generator for electron-proton scattering"
+  authors: "Y. Alanazi, P. Ambrozewicz, M. Battaglieri, A. N. Hiller Blin, M. P. Kuchera, Y. Li, T. Liu, R. E. McClellan, W. Melnitchouk, E. Pritchard, M. Robertson, N. Sato, R. Strauss, and L. Velasco"
+  journal: "Physical Review D"
+  volume: "106, 096002"
+  year: 2022
+  url: "https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.096002"
+
+- title: "Machine Learning in Nuclear Physics"
+  authors: "Amber Boehnlein, Markus Diefenthaler, Cristiano Fanelli, Morten Hjorth-Jensen, Tanja Horn, Michelle P. Kuchera, Dean Lee, Witold Nazarewicz, Kostas Orginos, Peter Ostroumov, Long-Gang Pang, Alan Poon, Nobuo Sato, Malachi Schram, Alexander Scheinker, Michael S. Smith, Xin-Nian Wang, Veronique Ziegler"
+  journal: "Reviews of Modern Physics"
+  volume: "94, 031003"
+  year: 2022
+  url: "https://arxiv.org/pdf/2112.02309.pdf"
+
+- title: "Implicit Quantile Neural Networks for Jet Simulation and Correction"
+  authors: "Braden Kronheim, Michelle P. Kuchera, Harrison B. Prosper, Raghuram Ramanujan"
+  journal: "NeurIPS Machine Learning and the Physical Sciences workshop"
+  year: 2021
+  url: "https://arxiv.org/pdf/2111.11415.pdf"
+
+- title: "Conditional Wasserstein Generative Adversarial Networks for Fast Detector Simulation"
+  authors: "John Blue, Braden Kronheim, Michelle Kuchera, and Raghuram Ramanujan"
+  journal: "25th International Conference on Computing in High Energy and Nuclear Physics (CHEP). Computational European Physical Journal (EPJ) Web of Conferences"
+  volume: "251, 03055"
+  year: 2021
+  doi: "https://doi.org/10.1051/epjconf/202125103055"
+  url: "https://www.epj-conferences.org/articles/epjconf/pdf/2021/05/epjconf_chep2021_03055.pdf"
+
+- title: "TensorBNN: Bayesian Inference for Neural Networks using Tensorflow"
+  authors: "B. Kronheim, M.P. Kuchera, H.B. Prosper"
+  journal: "Computer Physics Communications"
+  volume: "270, 108168"
+  year: 2022
+  doi: "https://doi.org/10.1016/j.cpc.2021.108168"
+  url: "https://arxiv.org/abs/2009.14393"
+
+- title: "Simulation of electron-proton scattering events by a Feature-Augmented and Transformed Generative Adversarial Network (FAT-GAN)"
+  authors: "Y. Alanazi, N. Sato, T. Liu, W. Melnitchouk, M. P. Kuchera, E. Pritchard, M. Robertson, R.R. Strauss, L. Velasco, Y. Li"
+  journal: "Proceedings of the Thirtieth International Joint Conference on Artificial Intelligence. Main Track"
+  pages: "2126-2132"
+  year: 2021
+  doi: "https://doi.org/10.24963/ijcai.2021/293"
+  url: "https://www.ijcai.org/proceedings/2021/293"
+
+- title: "Unsupervised Learning for Identifying Events in Active Target Experiments"
+  authors: "R. Solli, D. Bazin, Morten Hjorth-Jensen, M.P. Kuchera, R.R. Strauss"
+  journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+  year: 2021
+  doi: "https://doi.org/10.1016/j.nima.2021.165461"
+  url: "https://arxiv.org/abs/2008.02757"
+
+- title: "Variational Autoencoder Inverse Mapper: An End-to-End Deep Learning Framework for Inverse Problems"
+  authors: "M. Almaeen, Y. Alanazi, N. Sato, W. Melnitchouk, M. P. Kuchera and Y. Li"
+  journal: "2021 International Joint Conference on Neural Networks (IJCNN)"
+  year: 2021
+  doi: "10.1109/IJCNN52387.2021.9534012"
+  url: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9534012&isnumber=9533267"
+
+- title: "Modeling Magnetohydrodynamic Equilibrium in Magnetars with Applications to Continuous Gravitational Wave Production"
+  authors: "S. G. Frederick, M.P. Kuchera, Kristen L. Thompson"
+  journal: "Monthly Notices of the Royal Astronomical Society"
+  year: 2021
+  doi: "https://doi.org/10.1093/mnras/stab625"
+  url: "https://academic.oup.com/mnras/article-abstract/503/2/2764/6164856"
+
+- title: "Bayesian Neural Networks for Fast SUSY Predictions"
+  authors: "B. Kronheim, M.P. Kuchera, H.B. Prosper, A. Karbo"
+  journal: "Physics Letters B"
+  volume: "Volume 813"
+  year: 2021
+  doi: "https://doi.org/10.1016/j.physletb.2020.136041"
+  url: "https://www.sciencedirect.com/science/article/pii/S0370269320308224"
+
+- title: "cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network"
+  authors: "L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, M.P. Kuchera, Yasir Alanazi, Yaohang Li"
+  journal: "19th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  year: 2020
+  doi: "10.1109/ICMLA51294.2020.00066"
+  url: "https://ieeexplore.ieee.org/document/9356177"
+
+- title: "A.I. For Nuclear Physics"
+  authors: "P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, M.P. Kuchera, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang"
+  journal: "The European Physical Journal A"
+  volume: "57, 100"
+  year: 2021
+  url: "https://link.springer.com/article/10.1140/epja/s10050-020-00290-x"
+
+- title: "Report from the A.I. For Nuclear Physics Workshop"
+  authors: "P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, M.P. Kuchera, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang"
+  journal: "Whitepaper for the Department of Energy and the National Science Foundation"
+  year: 2020
+  url: "https://arxiv.org/pdf/2006.05422.pdf"
+
+- title: "Machine Learning Methods for Track Classification in the AT-TPC"
+  authors: "M.P. Kuchera, R. Ramanujan, J.Z. Taylor, R.R. Strauss, D. Bazin, J. Bradt, R. Chen"
+  journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+  year: 2019
+  doi: "https://doi.org/10.1016/j.nima.2019.05.097"
+  url: "https://arxiv.org/pdf/1810.10350.pdf"
+
+- title: "Study of spectroscopic factors at N= 29 using isobaric analogue resonances in inverse kinematics"
+  authors: "J. Bradt, Y. Ayyad, D. Bazin, W. Mittig, T. Ahn, S. Beceiro Novo, B.A. Brown, L. Carpenter, M. Cortesi, M.P. Kuchera, W.G. Lynch, S. Rost, N. Watwood, J. Yurkon, J. Barney, U. Datta, J. Estee, A. Gillibert, J. Manfredi, P. Morfouace, D. Pérez-Loureiro, E. Pollacco, J. Sammut, S. Sweany"
+  journal: "Physics Letters B"
+  year: 2018
+  doi: "https://doi.org/10.1016/j.physletb.2018.01.015"
+  url: "https://www.sciencedirect.com/science/article/pii/S0370269318300236"
+
+- title: "Commissioning of the Active-Target Time Projection Chamber"
+  authors: "J. Bradt, D. Bazin, F. Abu-Nimeh, T. Ahn, Y. Ayyad, S. Beceiro-Novo, L. Carpenter, M. Cortesi, M.P. Kuchera, W.G. Lynch, W. Mittig, S. Rost, N. Watwood, J. Yurkon"
+  journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+  year: 2017
+  doi: "https://doi.org/10.1016/j.nima.2017.09.013"
+  url: "https://www.sciencedirect.com/science/article/pii/S0168900217309683"

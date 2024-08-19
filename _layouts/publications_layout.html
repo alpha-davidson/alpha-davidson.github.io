@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../assets/css/publications.css">
+    </head>
+    <body>
+        <div class="title">
+            <h1>ALPhA Publications</h1>
+          </div>
+          
+          <div role="main">
+            <div id="publications-list" class="section">
+              {{ content }}
+            </div>
+          </div>
+          
+          <div id="publication-modal" class="modal">
+            <div class="modal-content">
+              <span class="close">&times;</span>
+              <h2 id="modal-title"></h2>
+              <div id="modal-body">
+                <div id="embedded-content"></div>
+                <div id="publication-details"></div>
+              </div>
+            </div>
+          </div>
+        <script src="../src/publications.js" type="module"></script>
+    </body>
+</html>

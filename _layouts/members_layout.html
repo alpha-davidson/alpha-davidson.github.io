@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../assets/css/members.css">
+    </head>
+    <body>
+        <div class="members-container">
+            <h1>ALPhA Members</h1>
+            
+            <section id="current-members">
+              <h2>Current Members</h2>
+              <div class="member-grid">
+                <div class="member-category">
+                  <h3>Faculty</h3>
+                  <ul id="faculty-list"></ul>
+                </div>
+                <div class="member-category">
+                  <h3>Students</h3>
+                  <ul id="students-list"></ul>
+                </div>
+              </div>
+            </section>
+          
+            <section id="alumni">
+              <h2>Alumni</h2>
+              <div id="semester-tabs"></div>
+              <div id="semester-content"></div>
+            </section>
+
+            <section id="research-network">
+                <h2>Research Network</h2>
+                <div id="network-visualization"></div>
+              </section>
+          </div>
+          <script src="https://d3js.org/d3.v7.min.js"></script>
+          <script src="../src/membersData.js" type="module"></script>
+          <script type="module" src="../src/members.js"></script>
+    </body>
+</html>

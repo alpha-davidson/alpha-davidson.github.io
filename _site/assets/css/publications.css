@@ -1,0 +1,169 @@
+:root {
+    --alpha-primary: #7a0a1f;
+    --alpha-secondary: #f2f2f2;
+    --alpha-text: #333333;
+  }
+  
+  .publication-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    display: flex;
+  }
+
+  .publication-preview {
+    flex: 0 0 200px;
+    margin-right: 1rem;
+  }
+
+  .publication-preview iframe {
+    width: 100%;
+    height: 250px;
+    border: 1px solid #ddd;
+  }
+
+  .publication-details {
+    flex: 1;
+  }
+  
+  .publication-item h3 {
+    color: var(--alpha-primary);
+    margin-bottom: 0.5rem;
+  }
+  
+  .publication-item p {
+    margin-bottom: 0.5rem;
+  }
+
+  .authors {
+    font-style: italic;
+  }
+  
+  .journal {
+    font-weight: bold;
+  }
+  
+  .doi a, .url a {
+    color: var(--alpha-primary);
+    text-decoration: none;
+  }
+  
+  .doi a:hover, .url a:hover {
+    text-decoration: underline;
+  }
+  
+  .view-publication {
+    background-color: var(--alpha-primary);
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 3px;
+    border-radius: 3px;
+  }
+  
+  .view-publication:hover {
+    background-color: #7a1526;
+  }
+  
+  .modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.4);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    max-width: 800px;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  #embedded-content {
+    width: 100%;
+    height: 500px;
+    border: none;
+  }
+  
+  #publication-details {
+    margin-top: 1rem;
+  }
+
+
+.doi a,
+.url a {
+  display: inline-block;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+
+  @media (max-width: 900px) {
+    div.title {
+      padding-top: 6rem;
+    }
+
+    .publication-item {
+      flex-direction: column;
+    }
+  
+    .publication-preview {
+      flex: 0 0 auto;
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+  
+    .publication-preview iframe {
+      height: 200px;
+    }
+  
+    .modal-content {
+      margin: 20% auto;
+      width: 90%;
+    }
+  
+    #embedded-content {
+      height: 400px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .publication-preview iframe {
+      height: 150px;
+    }
+  
+    .modal-content {
+      margin: 25% auto;
+      padding: 10px;
+    }
+  
+    #embedded-content {
+      height: 300px;
+    }
+  }

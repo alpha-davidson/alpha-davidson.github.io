@@ -23,7 +23,7 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer2">
-<a href="{{ site.baseurl }}{% link index.md %}" ><img src="../assets/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" /></a>
+      <a href="{{ site.baseurl }}{% link index.md %}" ><img src="../assets/images/logo.png" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" /></a>
       <!--<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
        
                <!-- <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2> -->
@@ -39,8 +39,12 @@
               <a class="page_link" href="{{ site.baseurl }}{% link index.md %}">Home</a>
             </section>
    <!--   {% endif %} -->
-
     </div>
+
+    <!-- Full-width hero section -->
+    {% if page.name == 'index.md' %}
+      {% include hero.html %}
+    {% endif %}
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -49,15 +53,36 @@
       </section>
     </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
+    <!-- FOOTER -->
+    <footer id="footer_wrap" class="outer">
+      <div class="footer-content inner">
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+        <div class="footer-section about">
+          <h3>About ALPhA</h3>
+          <p>Advancing Nuclear Physics Through Machine Learning at Davidson College.</p>
+        </div>
+        <div class="footer-section contact">
+          <h3>Contact Us</h3>
+          <p>Email: <a href="mailto:mikuchera@davidson.edu">mikuchera@davidson.edu</a></p>
+          <p>Address: Davidson College, Davidson, NC 28035</p>
+        </div>
+        <div class="footer-section links">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Research</a></li>
+            <li><a href="#">Publications</a></li>
+            <li><a href="#">Team</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 ALPhA Research Group. All rights reserved.</p>
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+      </div>
+    </footer>
 
     {% if site.google_analytics %}
       <script>
@@ -69,5 +94,10 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.7.14/lottie.min.js"></script>
+    <script src="src/newsData.js"></script>
+    <script type="module" src="src/script.js"></script>
+    <script src="{{ site.baseurl }}{% link src/github-repos.js %}"></script>
   </body>
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: members_layout
 title: ALPhA Davidson
 ---
 
