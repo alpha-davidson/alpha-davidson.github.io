@@ -176,7 +176,7 @@ const membersData = {
         "Luca Voichick": ["Downstream Tasks", "Point Cloud Classification"],
         "Anela Davis": ["Point Cloud Generation", "Downstream Tasks"],
         "Andrew Hoyle": ["Pix2Pix"],
-        "Braden Kronheim": ["SUSY BNN", "HEP IQN"],
+        "Braden Kronheim": ["SUSY BNN", "HEP IQN", "MCMC"],
         "Tim Ladoceur": ["Point Cloud Generation"],
         "Niya Ma": ["Point Cloud Classification", "Point Cloud Generation"],
         "Erika Navarro": ["Point Cloud Occlusion", "Point Cloud Generation"],
@@ -203,10 +203,10 @@ const membersData = {
         "Dulce Pacheco": ["Point Cloud Classification", "Downstream Tasks"],
         "Evan Pritchard": ["Point Cloud Generation", "Downstream Tasks"],
         "Michael Robertson": ["Point Cloud Classification", "Point Cloud Generation"],
-        "Christina Chen": ["Point Cloud Occlusion", "Point Cloud Classification"],
+        "Christina Chen": ["MCMC"],
         "Gray Selby": ["Downstream Tasks", "Point Cloud Occlusion"],
         "Ryan Strauss": ["Point Cloud Generation", "Downstream Tasks"],
-        "Jack Taylor": ["Point Cloud Classification", "Downstream Tasks"],
+        "Jack Taylor": ["Point Cloud Classification"],
         "Alex Karbo": ["SUSY BNN"]
     }    
   };
