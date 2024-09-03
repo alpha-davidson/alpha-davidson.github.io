@@ -5,24 +5,10 @@ const membersData = {
         "Raghu Ramanujan"
       ],
       students: [
-        "Alec Finch",
+        "Connor Cross"
         "Ann Zhu",
-        "Ben Votaw",
         "Ben Wagner",
-        "Carter Kniple",
-        "Derek Stephens",
-        "Dixon Hudson",
-        "Ella Zhu",
-        "Enzo Guardado",
-        "Gophes Baheti",
-        "Jerry Ii",
-        "Jessica Ajongbah",
-        "Kyle Taft",
-        "Murtaza Nikzad",
-        "Pranjal",
-        "Riana Doctor",
-        "Silas Garrett",
-        "William Zhu"
+        "Carter Kniple"
       ]
     },
     alumni: {
