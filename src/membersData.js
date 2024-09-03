@@ -5,10 +5,10 @@ const membersData = {
         "Raghu Ramanujan"
       ],
       students: [
-        "Connor Cross"
         "Ann Zhu",
         "Ben Wagner",
-        "Carter Kniple"
+        "Carter Kniple",
+        "Connor Cross"
       ]
     },
     alumni: {
