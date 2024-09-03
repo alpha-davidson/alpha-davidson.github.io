@@ -12,6 +12,12 @@ const membersData = {
       ]
     },
     alumni: {
+    "Fall 2024": [
+        "Ann Zhu",
+        "Ben Wagner",
+        "Carter Kniple",
+        "Connor Cross"
+        ],
     "Summer 2024": [
         "Alec Finch",
         "Ann Zhu",
