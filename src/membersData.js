@@ -163,14 +163,14 @@ const membersData = {
         
         // Alumni
         "Paul Choi": ["Point Cloud Generation", "Point Cloud Classification"],
-        "Cade Dembski": ["Point Cloud Classification", "Downstream Tasks"],
+        "Cade Dembski": ["Pix2Pix"],
         "Sidney Knowles": ["Point Cloud Generation", "Downstream Tasks"],
         "Kate Phillips": ["Point Cloud Classification", "Point Cloud Generation"],
         "Brad Shook": ["Downstream Tasks", "Point Cloud Classification"],
         "Luca Voichick": ["Downstream Tasks", "Point Cloud Classification"],
         "Anela Davis": ["Point Cloud Generation", "Downstream Tasks"],
-        "Andrew Hoyle": ["Point Cloud Occlusion", "Point Cloud Generation"],
-        "Braden Kronheim": ["Downstream Tasks", "Point Cloud Occlusion"],
+        "Andrew Hoyle": ["Pix2Pix"],
+        "Braden Kronheim": ["SUSY BNN", "HEP IQN"],
         "Tim Ladoceur": ["Point Cloud Generation"],
         "Niya Ma": ["Point Cloud Classification", "Point Cloud Generation"],
         "Erika Navarro": ["Point Cloud Occlusion", "Point Cloud Generation"],
@@ -201,7 +201,7 @@ const membersData = {
         "Gray Selby": ["Downstream Tasks", "Point Cloud Occlusion"],
         "Ryan Strauss": ["Point Cloud Generation", "Downstream Tasks"],
         "Jack Taylor": ["Point Cloud Classification", "Downstream Tasks"],
-        "Alex Karbo": ["Point Cloud Occlusion", "Downstream Tasks"]
+        "Alex Karbo": ["SUSY BNN"]
     }    
   };
   
