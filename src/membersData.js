@@ -239,7 +239,12 @@ memberLinks: {
     "Meg Houck": "https://www.linkedin.com/in/meg-houck-0a4b05170/",
     "Ethan Cramer": "https://www.linkedin.com/in/ethan-cramer-3204991a2/",
     "Robert Solli": "https://www.linkedin.com/in/robert-solli/",
-    "Jose Cruz": "https://www.linkedin.com/in/jose-cruz-5a2ab2154/"
+    "Jose Cruz": "https://www.linkedin.com/in/jose-cruz-5a2ab2154/",
+    "Evan Pritchard": "https://www.linkedin.com/in/evanmpritchard/",
+    "Eleni Tsitinidi": "https://www.linkedin.com/in/eleni-tsit/",
+    "Michael Robertson": "https://www.linkedin.com/in/michael-robertson121/",
+    "Andrew Jones": "https://www.linkedin.com/in/andrew-jones-499360227/",
+    "Yumna Ahmed": "https://www.linkedin.com/in/yumna-fatima-ahmed/"
   // Add more as available
 }
   };  
