@@ -80,7 +80,8 @@ const membersData = {
         "Sidney Knowles",
         "Braden Kronheim",
         "Eleni Tsitinidi",
-        "Annabel Winters-McCabe"
+        "Annabel Winters-McCabe",
+        "Robert Solli"
       ],
       "Fall 2020": [
         "John Blue",
@@ -89,7 +90,8 @@ const membersData = {
         "Braden Kronheim",
         "Daniel Lammens",
         "Eleni Tsitinidi",
-        "Annabel Winters-McCabe"
+        "Annabel Winters-McCabe",
+        "Robert Solli"
       ],
       "Summer 2020": [
         "Nade Bai",
@@ -235,6 +237,8 @@ memberLinks: {
     "Murtaza Nikzad": "https://www.linkedin.com/in/murtaza-nikzad-877722158/",
     "Gray Selby": "https://www.linkedin.com/in/grayselby/",
     "Meg Houck": "https://www.linkedin.com/in/meg-houck-0a4b05170/",
+    "Ethan Cramer": "https://www.linkedin.com/in/ethan-cramer-3204991a2/",
+    "Robert Solli": "https://www.linkedin.com/in/robert-solli/"
   // Add more as available
 }
   };  
