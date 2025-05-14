@@ -84,7 +84,7 @@ function showSemester(semester) {
     //     li.textContent = member;
     //     ul.appendChild(li);
     // });
-    membersData.alumni[semester].students.forEach(name => {
+    membersData.alumni[semester].forEach(name => {
       const li = document.createElement("li");
       const linkedInUrl = membersData.memberLinks[name];
 
