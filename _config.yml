@@ -8,5 +8,7 @@ github:
 
 google_analytics: UA-164678666-1
 
+logo: /assets/images/logo.png
+
 sass:
   sass_dir: assets/css
