@@ -26,7 +26,9 @@
     </ul>
   </nav>
 </header>
-  {{ content }}
+  <div class="main-container"> <!-- Added container div -->
+    {{ content }}
+  </div>
 
   <footer>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
