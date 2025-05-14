@@ -69,9 +69,14 @@ function showAllSemesters() {
     const container = document.createElement('div');
     container.className = 'member-grid';
 
+    const seen = new Set();
+
     Object.values(membersData.alumni).flat().forEach(name => {
-        const card = createMemberCard(name);
-        container.appendChild(card);
+        if (!seen.has(name)) {
+            seen.add(name);
+            const card = createMemberCard(name);
+            container.appendChild(card);
+        }
     });
 
     semesterContent.appendChild(container);
