@@ -7,7 +7,12 @@ function populateCurrentMembers() {
   
     membersData.currentMembers.faculty.forEach(member => {
       const li = document.createElement('li');
-      li.textContent = member;
+      const linkedInUrl = membersData.memberLinks[name];
+    if (linkedInUrl) {
+        li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
+      } else {
+        li.textContent = name;
+      }
       facultyList.appendChild(li);
     });
   
