@@ -216,15 +216,14 @@ const membersData = {
         "Ryan Strauss": ["Point Cloud Generation", "Downstream Tasks", "ATTPC"],
         "Jack Taylor": ["Classification", "ATTPC"],
         "Alex Karbo": ["SUSY BNN"]
-    }    
-  };
+    },    
 
-const memberLinks = {
+memberLinks: {
   "Michelle Kuchera": "https://www.linkedin.com/in/michellekuchera/",
   "Raghu Ramanujan": "https://www.linkedin.com/in/raghuramanujan/",
   "Ann Zhu": "https://www.linkedin.com/in/ann-zhuqianhui/",
   "Ben Votaw": "https://www.linkedin.com/in/ben-votaw-7241b4237/",
   // Add more as available
-};
-  
-export { membersData, memberLinks };
+}
+  };  
+export default membersData;
