@@ -9,7 +9,7 @@ function populateCurrentMembers() {
       const li = document.createElement('li');
       const linkedInUrl = membersData.memberLinks[member];
     if (linkedInUrl) {
-        li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
+        li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${member}</a>`;
       } else {
         li.textContent = member;
       }
