@@ -10,23 +10,22 @@
 
 <body>
 
-  <nav class="navbar">
+<header class="site-header">
+  <div class="logo-container">
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="ALPhA Logo" class="site-logo">
+    </a>
+  </div>
+  <nav class="main-nav">
     <ul>
-      <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>Home</a></li>
-      <li><a href="{{ '/team/' | relative_url }}" {% if page.url contains '/team/' %}class="active"{% endif %}>Team</a></li>
-      <li><a href="{{ '/research/' | relative_url }}" {% if page.url contains '/research/' %}class="active"{% endif %}>Research</a></li>
-      <li><a href="{{ '/publications/' | relative_url }}" {% if page.url contains '/publications/' %}class="active"{% endif %}>Publications</a></li>
-      <li><a href="{{ '/contact/' | relative_url }}" {% if page.url contains '/contact/' %}class="active"{% endif %}>Contact</a></li>
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/members' | relative_url }}">Members</a></li>
+      <li><a href="{{ '/news' | relative_url }}">News</a></li>
+      <li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
+      <li><a href="{{ '/alum' | relative_url }}">Alumni</a></li>
     </ul>
   </nav>
-{% if site.logo %}
-  <header class="site-header">
-    <a href="{{ '/' | relative_url }}">
-      <img src="{{ site.logo | relative_url }}" alt="{{ site.title }} logo" class="site-logo">
-    </a>
-  </header>
-{% endif %}
-
+</header>
   {{ content }}
 
   <footer>
