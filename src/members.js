@@ -30,15 +30,15 @@ function populateCurrentMembers() {
     const facultyList = document.getElementById('faculty-list');
     const studentsList = document.getElementById('students-list');
 
-    membersData.currentMembers.faculty.forEach(member => {
-        const card = createMemberCard(member);
-        facultyList.appendChild(card);
-    });
+membersData.currentMembers.faculty.forEach(name => {
+  const li = createMemberCard(name);
+  facultyList.appendChild(li);
+});
 
-    membersData.currentMembers.students.forEach(student => {
-        const card = createMemberCard(student);
-        studentsList.appendChild(card);
-    });
+membersData.currentMembers.students.forEach(name => {
+  const li = createMemberCard(name);
+  studentsList.appendChild(li);
+});
 }
 
 function populateAlumni() {
