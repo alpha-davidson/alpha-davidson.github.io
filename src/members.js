@@ -1,4 +1,5 @@
 import membersData from './membersData.js';
+import memberLinks from './membersData.js';
 import { createResearchNetwork } from './researchNetwork.js';
 
 function populateCurrentMembers() {
