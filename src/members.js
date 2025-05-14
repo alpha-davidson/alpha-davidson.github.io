@@ -2,18 +2,28 @@ import membersData from './membersData.js';
 import { createResearchNetwork } from './researchNetwork.js';
 
 function createMemberCard(name) {
-    const card = document.createElement('div');
-    card.className = 'member-card';
+ const li = document.createElement("li");
+  li.classList.add("member-card");
 
-    const linkedInUrl = membersData.memberLinks[name];
+  const linkedInUrl = membersData.memberLinks[name];
+  const topics = membersData.researchTopics[name] || [];
 
-    if (linkedInUrl) {
-        card.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
-    } else {
-        card.textContent = name;
-    }
+  const nameElement = linkedInUrl
+    ? `<a href="${linkedInUrl}" target="_blank">${name}</a>`
+    : `<span>${name}</span>`;
 
-    return card;
+  const topicsHTML = topics.length
+    ? `<div class="topics">${topics.map(tag => `<span class="tag">${tag}</span>`).join(' ')}</div>`
+    : '';
+
+  li.innerHTML = `
+    <div class="member-info">
+      ${nameElement}
+      ${topicsHTML}
+    </div>
+  `;
+
+  return li;
 }
 
 function populateCurrentMembers() {
