@@ -29,7 +29,21 @@ a {
     text-decoration: underline;
   }
 }
+// header logo
+.site-header {
+  padding: 1rem;
+  background-color: #f9f9f9;
+  text-align: center;
+}
 
+.logo-container {
+  display: inline-block;
+}
+
+.site-logo {
+  max-height: 100px;
+  height: auto;
+}
 // ======== CONTAINER ========
 .container {
   max-width: 1000px;
