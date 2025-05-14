@@ -223,6 +223,11 @@ memberLinks: {
   "Raghu Ramanujan": "https://www.linkedin.com/in/raghuramanujan/",
   "Ann Zhu": "https://www.linkedin.com/in/ann-zhuqianhui/",
   "Ben Votaw": "https://www.linkedin.com/in/ben-votaw-7241b4237/",
+    "Ryan Strauss": "https://www.linkedin.com/in/rystrauss/",
+    "Dylan Sparks": "https://www.linkedin.com/in/dylan-sparks-804462201/",
+    "Murtaza Nikzad": "https://www.linkedin.com/in/murtaza-nikzad-877722158/",
+    "Gray Selby": "https://www.linkedin.com/in/grayselby/",
+    "Meg Houck": "https://www.linkedin.com/in/meg-houck-0a4b05170/",
   // Add more as available
 }
   };  
