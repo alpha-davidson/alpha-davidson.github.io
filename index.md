@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Alpha Research Group @ Davidson College
+title: ALPhA @ Davidson College
 ---
 
 <div class="container">
 
-# Alpha Research Group
+<h1>Alpha Research Group</h1>
 
-Welcome to the Alpha Research Group at Davidson College, where we explore the intersection of **artificial intelligence**, **nuclear physics**, and **high-performance computing**. Our interdisciplinary team solves real-world problems using machine learning, symbolic reasoning, and scientific computing.
+<p>
+Welcome to the Alpha Research Group at Davidson College, where we explore the intersection of <strong>artificial intelligence</strong>, <strong>nuclear physics</strong>, and <strong>high-performance computing</strong>. Our interdisciplinary team solves real-world problems using machine learning, symbolic reasoning, and scientific computing.
+</p>
 
-We value **open science**, **collaborative research**, and **inclusive mentorship**.
+<p>We value <strong>open science</strong>, <strong>collaborative research</strong>, and <strong>inclusive mentorship</strong>.</p>
 
----
+<hr />
 
-## What We Work On
+<h2>What We Work On</h2>
 
 <div class="team-grid">
   <div class="team-card">
@@ -37,24 +39,22 @@ We value **open science**, **collaborative research**, and **inclusive mentorshi
   </div>
 </div>
 
----
+<hr />
 
-## Recent News
+<h2>Recent News</h2>
+<ul>
+  <li>🧠 Our work on <strong>graph neural networks for nuclear decay</strong> was accepted to <em>NeurIPS 2024</em>.</li>
+  <li>👩‍🔬 Undergraduate researchers presented at the <strong>APS Division of Nuclear Physics</strong> meeting.</li>
+  <li>💾 Released: <em>OpenDecaySim v1.0</em> – on <a href="https://github.com/alpha-davidson">GitHub</a>.</li>
+</ul>
 
-- 🧠 Our work on **graph neural networks for nuclear decay** was accepted to *NeurIPS 2024*.
-- 👩‍🔬 Undergraduate researchers presented at the **APS Division of Nuclear Physics** meeting.
-- 💾 Released: *OpenDecaySim v1.0* – on [GitHub](https://github.com/alpha-davidson).
+<hr />
 
----
-
-## Get Involved
-
-Interested in working with us? We welcome Davidson students from all backgrounds who are curious about AI and science.
-
-👉 Check out our [team](/team/) or [projects](/research/) to learn more.
+<h2>Get Involved</h2>
+<p>Interested in working with us? We welcome Davidson students from all backgrounds who are curious about AI and science.</p>
+<p>👉 Check out our <a href="/team/">team</a> or <a href="/research/">projects</a> to learn more.</p>
 
 </div>
-
 <!--
 # ALPhA research at Davidson College
 <!-- <div class="blurb">-->
