@@ -8,10 +8,18 @@ const membersData = {
         "Ann Zhu",
         "Ben Wagner",
         "Carter Kniple",
-        "Connor Cross"
+        "Ellis Sriram",
+        "Nate Reed"
       ]
     },
     alumni: {
+    "Spring 2025": [
+        "Ann Zhu",
+        "Ben Wagner",
+        "Carter Kniple",
+        "Ellis Sriram",
+        "Nate Reed"
+        ], 
     "Fall 2024": [
         "Ann Zhu",
         "Ben Wagner",
