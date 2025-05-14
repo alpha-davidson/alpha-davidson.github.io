@@ -52,6 +52,43 @@ a {
 }
 
 // ======== NAVIGATION BAR ========
+
+/* Navigation Bar Styles */
+.main-nav {
+  text-align: center;
+  background-color: #333; /* Dark background color */
+  padding: 10px;
+}
+
+.main-nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.main-nav li {
+  margin: 0 15px;
+}
+
+.main-nav a {
+  color: white;            /* White text */
+  text-decoration: none;   /* Remove underline */
+  font-size: 1.2rem;       /* Adjust font size */
+}
+
+.main-nav a:hover {
+  color: #f39c12; /* Change color on hover */
+}
+
+/* Active page styling */
+.main-nav a.active {
+  font-weight: bold;
+  color: #f39c12; /* Active link color */
+}
+
+// MPK : making a mess
 nav.navbar {
   background-color: $background-color;
   border-bottom: 1px solid #ccc;
