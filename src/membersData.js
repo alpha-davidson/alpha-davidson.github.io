@@ -161,7 +161,7 @@ const membersData = {
             Tags:
             
             Labs: FRIB, CERN, MissS, JLab
-            Experiments: ATTPC, SuN, OPPAC, SPiRIT, HallB
+            Experiments: ATTPC, SuN, OPPAC, SPiRIT, HallB, Beam
             ML: CNN, PointNet, Foundation, Diffusion, Sparse, Transformer, Pix2Pix, IQN, BNN
                 GAN, MCMC
         */
@@ -195,17 +195,17 @@ const membersData = {
         "Andrew Hoyle": ["JLab", "Pix2Pix"],
         "Braden Kronheim": ["CERN", "BNN", "IQN"],
         "Tim Ladoceur": ["FRIB", "SPiRIT"],
-        "Niya Ma": ["Point Cloud Classification", "Point Cloud Generation"],
-        "Erika Navarro": ["Point Cloud Occlusion", "Point Cloud Generation"],
-        "Mike Remezo": ["Point Cloud Classification"],
-        "Andrew Rice": ["Point Cloud Classification", "Point Cloud Occlusion"],
-        "Aislinn Whalen": ["Downstream Tasks", "Point Cloud Generation"],
-        "Khalil Adams": ["Point Cloud Occlusion", "Downstream Tasks"],
-        "John Blue": ["Track Completion", "CMS jets"],
-        "Sebastian Charmot": ["Point Cloud Generation", "Downstream Tasks"],
+        "Niya Ma": ["FRIB", "ATTPC"],
+        "Erika Navarro": ["JLab"],
+        "Mike Remezo": ["FRIB", "ATTPC"],
+        "Andrew Rice": ["FRIB", "ATTPC", "PointNet"],
+        "Aislinn Whalen": ["JLab"],
+        "Khalil Adams": ["FRIB", "OPPAC"],
+        "John Blue": ["CERN","FRIB","GAN"],
+        "Sebastian Charmot": ["FRIB","Beam"],
         "William Clark": ["SPIRIT"],
-        "Chase Coley": ["Point Cloud Occlusion", "Point Cloud Classification"],
-        "Oğuzhan Çölkesen": ["Downstream Tasks", "Point Cloud Occlusion"],
+        "Chase Coley": ["FRIB", "OPPAC"],
+        "Oğuzhan Çölkesen": ["FRIB"],
         "Eleni Tsitinidi": ["JLab", "MDN"],
         "Annabel Winters-McCabe": ["FRIB", "OPPAC"],
         "Daniel Lammens": ["FRIB"],
