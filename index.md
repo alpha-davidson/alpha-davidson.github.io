@@ -5,38 +5,38 @@ title: ALPhA @ Davidson College
 
 <div class="container">
 
-<h1>Alpha Research Group</h1>
+<h1>ALPhA @ Davidson College</h1>
 
 <p>
-Welcome to the Alpha Research Group at Davidson College, where we explore the intersection of <strong>artificial intelligence</strong>, <strong>nuclear physics</strong>, and <strong>high-performance computing</strong>. Our interdisciplinary team solves real-world problems using machine learning, symbolic reasoning, and scientific computing.
+Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research group at Davidson College! We develop <strong>deep learning</strong> models for <strong>nuclear physics</strong> and <strong>particle physics</strong> applications. We collaborate with scientists at the Facility for Rare Isotope Beams, CERN, and more.
 </p>
 
-<p>We value <strong>open science</strong>, <strong>collaborative research</strong>, and <strong>inclusive mentorship</strong>.</p>
+<!--<p>We value <strong>open science</strong>, <strong>collaborative research</strong>, and <strong>inclusive mentorship</strong>.</p>-->
 
 <hr />
 
-<h2>What We Work On</h2>
+<h2>What We are Working on Now</h2>
 
 <div class="team-grid">
   <div class="team-card">
-    <h3>AI for Science</h3>
-    <p>Machine learning for modeling scientific data, from nuclear structure to experimental design.</p>
+    <h3>AI for Detector Data</h3>
+    <p>Addressing or modeling detector effects in experimental data</p>
   </div>
 
   <div class="team-card">
-    <h3>Symbolic Reasoning</h3>
-    <p>Integrating logic and structure into AI models to promote explainability and generalization.</p>
+    <h3>ML for TPCs</h3>
+    <p>Developeing Foundation Models to enable or assist with ML-supported data extraction or analysis in Time Projection Chmabers. </p>
   </div>
 
-  <div class="team-card">
+<!--  <div class="team-card">
     <h3>Automated Discovery</h3>
     <p>Developing systems for conjecture generation and theorem proving with AI.</p>
-  </div>
+  </div> -->
 
-  <div class="team-card">
+<!--  <div class="team-card">
     <h3>Neural Architecture Search</h3>
     <p>Learning optimal architectures for domain-specific scientific tasks.</p>
-  </div>
+  </div> -->
 </div>
 
 <hr />
