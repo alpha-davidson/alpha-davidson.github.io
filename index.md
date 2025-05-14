@@ -1,10 +1,5 @@
 ---
 layout: default
-title: ALPhA Davidson
----
-
----
-layout: default
 title: Alpha Research Group @ Davidson College
 ---
 
