@@ -191,7 +191,34 @@ h1, h2, h3, h4 {
     font-size: 0.9rem;
   }
 }
+// +++member+++
 
+.member-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.member-card {
+  padding: 0.75rem;
+  background: #f9f9f9;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.member-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.member-card a {
+  text-decoration: none;
+  color: #0077b5; /* LinkedIn blue */
+  font-weight: 600;
+}
 // ======== FOOTER ========
 footer {
   text-align: center;
