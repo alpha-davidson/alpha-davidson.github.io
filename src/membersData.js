@@ -158,9 +158,9 @@ const membersData = {
         /*
             Tags:
             
-            Labs: FRIB, CERN
-            Experiments: ATTPC, SuN
-            ML: CNN, PointNet, Foundation, Diffusion, Sparse, Transformer
+            Labs: FRIB, CERN, MissS, JLab
+            Experiments: ATTPC, SuN, OPPAC
+            ML: CNN, PointNet, Foundation, Diffusion, Sparse, Transformer, Pix2Pix
 
         */
         "Alec Finch": ["FRIB", "ATTPC", "PointNet"],
@@ -172,7 +172,7 @@ const membersData = {
         "Dixon Hudson": ["FRIB", "ATTPC", "PointNet"],
         "Ella Zhu": ["FRIB", "ATTPC"],
         "Enzo Guardado": ["FRIB", "ATTPC"],
-        "Gophes Baheti": "FRIB", "ATTPC"],
+        "Gophes Baheti": ["FRIB", "ATTPC"],
         "Jerry Ii": ["FRIB", "ATTPC", "Diffusion"],
         "Jessica Ajongbah": ["FRIB", "ATTPC"],
         "Kyle Taft": ["FRIB", "SuN"],
@@ -185,12 +185,12 @@ const membersData = {
         // Alumni
         "Paul Choi": ["FRIB", "ATTPC"],
         "Cade Dembski": ["FRIB", "SuN"],
-        "Sidney Knowles": ["Point Cloud Generation", "Downstream Tasks"],
-        "Kate Phillips": ["Point Cloud Classification", "Point Cloud Generation"],
-        "Brad Shook": ["Downstream Tasks", "Point Cloud Classification"],
-        "Luca Voichick": ["Downstream Tasks", "Point Cloud Classification"],
-        "Anela Davis": ["Point Cloud Generation", "Downstream Tasks"],
-        "Andrew Hoyle": ["Pix2Pix"],
+        "Sidney Knowles": ["FRIB", "ATTPC"],
+        "Kate Phillips": ["MissS"],
+        "Brad Shook": ["FRIB", "ATTPC"],
+        "Luca Voichick":  ["FRIB", "ATTPC"],
+        "Anela Davis":  ["FRIB", "ATTPC"],
+        "Andrew Hoyle": ["JLab", "Pix2Pix"],
         "Braden Kronheim": ["SUSY BNN", "HEP IQN", "MCMC", "CMS jets"],
         "Tim Ladoceur": ["Point Cloud Generation"],
         "Niya Ma": ["Point Cloud Classification", "Point Cloud Generation"],
@@ -208,9 +208,9 @@ const membersData = {
         "Annabel Winters-McCabe": ["PPAC", "FRIB"],
         "Daniel Lammens": ["Point Cloud Occlusion", "Downstream Tasks"],
         "Nade Bai": ["Point Cloud Classification", "Downstream Tasks"],
-        "Kate Roberts": ["PPAC", "Downstream Tasks"],
+        "Kate Roberts": ["FRIB", "OPPAC"],
         "Rida Shahid": ["JLab"],
-        "Lexie Weghorn": ["Point Cloud Classification"],
+        "Lexie Weghorn": ["FRIB", "OPPAC"],
         "Meg Houck": ["JLab", "MDN"],
         "Zach Nussbaum": ["Point Cloud Generation", "Downstream Tasks"],
         "Ted Yoo": ["Point Cloud Classification", "Downstream Tasks"],
