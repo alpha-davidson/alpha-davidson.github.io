@@ -22,7 +22,7 @@ membersData.currentMembers.students.forEach(name => {
     li.textContent = name;
   }
 
-  studentsListElement.appendChild(li);
+  studentsList.appendChild(li);
 });
   }
   
