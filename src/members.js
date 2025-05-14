@@ -57,11 +57,23 @@ function populateAlumni() {
     semesterContent.innerHTML = '';
 
     const ul = document.createElement('ul');
-    Object.values(membersData.alumni).flat().forEach(member => {
-        const li = document.createElement('li');
-        li.textContent = member;
-        ul.appendChild(li);
+
+    membersData.alumni.flat().forEach(name => {
+      const li = document.createElement("li");
+      const linkedInUrl = membersData.memberLinks[name];
+
+      if (linkedInUrl) {
+        li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
+      } else {
+        li.textContent = name;
+      }
+      ul.appendChild(li);
     });
+    // Object.values(membersData.alumni).flat().forEach(member => {
+    //     const li = document.createElement('li');
+    //     li.textContent = member;
+    //     ul.appendChild(li);
+    // });
 
     
 
@@ -93,7 +105,6 @@ function showSemester(semester) {
       } else {
         li.textContent = name;
       }
-
       ul.appendChild(li);
     });
 
