@@ -56,7 +56,7 @@ a {
 /* Navigation Bar Styles */
 .main-nav {
   text-align: center;
-  background-color: #333; /* Dark background color */
+  background-color: #A91F2E; /* ALPhA color*/
   padding: 10px;
 }
 
@@ -79,13 +79,13 @@ a {
 }
 
 .main-nav a:hover {
-  color: #f39c12; /* Change color on hover */
+  color: #999; /* Change color on hover */
 }
 
 /* Active page styling */
 .main-nav a.active {
   font-weight: bold;
-  color: #f39c12; /* Active link color */
+  color: #fff; /* Active link color */
 }
 
 // MPK : making a mess
