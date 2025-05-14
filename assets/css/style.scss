@@ -219,6 +219,40 @@ h1, h2, h3, h4 {
   color: #0077b5; /* LinkedIn blue */
   font-weight: 600;
 }
+
+.member-card {
+  border: 1px solid #ccc;
+  padding: 1em;
+  margin-bottom: 0.5em;
+  border-radius: 10px;
+  background: #fafafa;
+  box-shadow: 1px 1px 3px rgba(0,0,0,0.05);
+  transition: transform 0.2s;
+}
+.member-card:hover {
+  transform: translateY(-2px);
+}
+.member-info a {
+  font-weight: bold;
+  font-size: 1.1em;
+  color: #333;
+  text-decoration: none;
+}
+.member-info a:hover {
+  text-decoration: underline;
+}
+.topics {
+  margin-top: 0.5em;
+}
+.tag {
+  display: inline-block;
+  background: #e0e0e0;
+  color: #333;
+  font-size: 0.8em;
+  padding: 0.2em 0.5em;
+  border-radius: 5px;
+  margin: 2px;
+}
 // ======== FOOTER ========
 footer {
   text-align: center;
