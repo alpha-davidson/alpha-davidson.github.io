@@ -63,6 +63,8 @@ function populateAlumni() {
         ul.appendChild(li);
     });
 
+    
+
     semesterContent.appendChild(ul);
 
     // Update active tab
@@ -77,10 +79,22 @@ function showSemester(semester) {
     semesterContent.innerHTML = '';
 
     const ul = document.createElement('ul');
-    membersData.alumni[semester].forEach(member => {
-        const li = document.createElement('li');
-        li.textContent = member;
-        ul.appendChild(li);
+    // membersData.alumni[semester].forEach(member => {
+    //     const li = document.createElement('li');
+    //     li.textContent = member;
+    //     ul.appendChild(li);
+    // });
+    membersData.alumni[semester].students.forEach(name => {
+      const li = document.createElement("li");
+      const linkedInUrl = membersData.memberLinks[name];
+
+      if (linkedInUrl) {
+        li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
+      } else {
+        li.textContent = name;
+      }
+
+      ul.appendChild(li);
     });
 
     semesterContent.appendChild(ul);
