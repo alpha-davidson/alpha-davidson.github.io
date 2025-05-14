@@ -227,4 +227,4 @@ const memberLinks = {
   // Add more as available
 };
   
-  export default membersData;
+  export { membersData, memberLinks };
