@@ -12,6 +12,14 @@
   year: "2024"
   url: "https://arxiv.org/abs/2501.18674"
 
+- title: "Implicit quantile networks for emulation in jet physics"
+  authors: "B. Kronheim*, A. Al Kadhim, M.P. Kuchera}, H.B. Prosper, R. Ramanujan"
+  journal: "Machine Learning: Science and Technology"
+  volume: "04507"
+  year: "2024"
+  doi: "https://doi.org/10.1088/2632-2153/ad9884"
+  url: "https://iopscience.iop.org/article/10.1088/2632-2153/ad9884"
+
 - title: "Two-dimensional total absorption spectroscopy with conditional generative adversarial networks"
   authors: "C. Dembski, M.P. Kuchera, S. Liddick, R. Ramanujan, A. Spyrou"
   journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
