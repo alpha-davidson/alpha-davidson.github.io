@@ -7,51 +7,51 @@ title: Alpha Research Group @ Davidson College
 
 # Alpha Research Group
 
-Welcome to the Alpha Research Group at Davidson College, where we explore the intersection of **artificial intelligence**, **nuclear physics**, and **high-performance computing**. Our interdisciplinary team works on solving real-world problems using modern machine learning and optimization techniques.
+Welcome to the Alpha Research Group at Davidson College, where we explore the intersection of **artificial intelligence**, **nuclear physics**, and **high-performance computing**. Our interdisciplinary team solves real-world problems using machine learning, symbolic reasoning, and scientific computing.
 
-We believe in **open science**, **collaborative research**, and **inclusive mentorship**. Our projects span diverse domains and emphasize transparency, reproducibility, and hands-on engagement.
+We value **open science**, **collaborative research**, and **inclusive mentorship**.
 
 ---
 
 ## What We Work On
 
 <div class="team-grid">
+  <div class="team-card">
+    <h3>AI for Science</h3>
+    <p>Machine learning for modeling scientific data, from nuclear structure to experimental design.</p>
+  </div>
 
-<div class="team-card">
-<h3>AI for Science</h3>
-<p>Using deep learning and classical machine learning to model scientific data, from nuclear structure to experimental design.</p>
-</div>
+  <div class="team-card">
+    <h3>Symbolic Reasoning</h3>
+    <p>Integrating logic and structure into AI models to promote explainability and generalization.</p>
+  </div>
 
-<div class="team-card">
-<h3>Symbolic Reasoning</h3>
-<p>Building AI models that reason over structured data, including logic constraints and human-readable representations.</p>
-</div>
+  <div class="team-card">
+    <h3>Automated Discovery</h3>
+    <p>Developing systems for conjecture generation and theorem proving with AI.</p>
+  </div>
 
-<div class="team-card">
-<h3>Automated Theorem Discovery</h3>
-<p>Creating tools to help discover and verify new mathematical statements using machine intelligence.</p>
-</div>
-
-<div class="team-card">
-<h3>Neural Architecture Search</h3>
-<p>Developing algorithms that learn optimal neural network designs for complex scientific tasks.</p>
-</div>
-
+  <div class="team-card">
+    <h3>Neural Architecture Search</h3>
+    <p>Learning optimal architectures for domain-specific scientific tasks.</p>
+  </div>
 </div>
 
 ---
 
 ## Recent News
 
-- 🧠 Our latest work on **GNNs for nuclear decay prediction** has been accepted to [NeurIPS 2024](#)!
-- 🧪 Undergraduate researchers presented at the **APS Division of Nuclear Physics meeting**.
-- 🔍 New dataset released: *OpenDecaySim v1.0* – available on our [GitHub](https://github.com/alpha-davidson).
+- 🧠 Our work on **graph neural networks for nuclear decay** was accepted to *NeurIPS 2024*.
+- 👩‍🔬 Undergraduate researchers presented at the **APS Division of Nuclear Physics** meeting.
+- 💾 Released: *OpenDecaySim v1.0* – on [GitHub](https://github.com/alpha-davidson).
 
 ---
 
 ## Get Involved
 
-We are always looking for curious and motivated students to join our projects. If you're a Davidson student interested in AI or computational physics, [reach out to us](/team/)!
+Interested in working with us? We welcome Davidson students from all backgrounds who are curious about AI and science.
+
+👉 Check out our [team](/team/) or [projects](/research/) to learn more.
 
 </div>
 
