@@ -11,11 +11,18 @@ function populateCurrentMembers() {
       facultyList.appendChild(li);
     });
   
-    membersData.currentMembers.students.forEach(member => {
-      const li = document.createElement('li');
-      li.textContent = member;
-      studentsList.appendChild(li);
-    });
+membersData.currentMembers.students.forEach(name => {
+  const li = document.createElement("li");
+  const linkedInUrl = memberLinks[name];
+
+  if (linkedInUrl) {
+    li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
+  } else {
+    li.textContent = name;
+  }
+
+  studentsListElement.appendChild(li);
+});
   }
   
 function populateAlumni() {
