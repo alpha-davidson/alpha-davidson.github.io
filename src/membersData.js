@@ -155,29 +155,36 @@ const membersData = {
       ]
     },
     researchTopics: {
-        // Current Members
-        "Alec Finch": ["Track Counting", "Point Cloud Classification"],
-        "Ann Zhu": ["Track Counting", "Point Cloud Classification"],
-        "Ben Votaw": ["Track Counting", "Downstream Tasks"],
-        "Ben Wagner": ["Track Counting", "Point Cloud Classification"],
-        "Carter Kniple": ["Track Counting", "Point Cloud Geneartion"],
-        "Derek Stephens": ["Point Cloud Generation", "Donwstream Tasks"],
-        "Dixon Hudson": ["Downstream Tasks"],
-        "Ella Zhu": ["Track Counting", "Downstream Tasks"],
-        "Enzo Guardado": ["Point Cloud Generation", "Downstream Tasks"],
-        "Gophes Baheti": ["Track Counting", "Point Cloud Generation"],
-        "Jerry Ii": ["Track Counting"],
-        "Jessica Ajongbah": ["Track Counting"],
-        "Kyle Taft": ["Track Counting"],
-        "Murtaza Nikzad": ["Track Counting", "Point Cloud Classificaiton", "Downstream Tasks"],
-        "Pranjal": ["Track Counting"],
-        "Riana Doctor": ["Track Counting", "Point Cloud Classificaiton", "Downstream Tasks"],
-        "Silas Garrett": ["Point Cloud Generation", "Donwstream Tasks"],
-        "William Zhu": ["Downstream Tasks"],
+        /*
+            Tags:
+            
+            Labs: FRIB, CERN
+            Experiments: ATTPC, SuN
+            ML: CNN, PointNet, Foundation, Diffusion, Sparse, Transformer
+
+        */
+        "Alec Finch": ["FRIB", "ATTPC", "PointNet"],
+        "Ann Zhu": ["FRIB", "ATTPC", "Foundation"],
+        "Ben Votaw": ["FRIB", "ATTPC", "Sparse"],
+        "Ben Wagner": ["FRIB", "ATTPC", "Transformer"],
+        "Carter Kniple": ["FRIB", "ATTPC", "PointNet"],
+        "Derek Stephens": ["FRIB", "ATTPC"],
+        "Dixon Hudson": ["FRIB", "ATTPC", "PointNet"],
+        "Ella Zhu": ["FRIB", "ATTPC"],
+        "Enzo Guardado": ["FRIB", "ATTPC"],
+        "Gophes Baheti": "FRIB", "ATTPC"],
+        "Jerry Ii": ["FRIB", "ATTPC", "Diffusion"],
+        "Jessica Ajongbah": ["FRIB", "ATTPC"],
+        "Kyle Taft": ["FRIB", "SuN"],
+        "Murtaza Nikzad": ["FRIB", "ATTPC"],
+        "Pranjal": ["FRIB", "ATTPC", "PointNet"],
+        "Riana Doctor": ["FRIB", "ATTPC"],
+        "Silas Garrett": ["FRIB", "ATTPC"],
+        "William Zhu": ["FRIB", "ATTPC"],
         
         // Alumni
-        "Paul Choi": ["Point Cloud Generation", "Point Cloud Classification"],
-        "Cade Dembski": ["Pix2Pix"],
+        "Paul Choi": ["FRIB", "ATTPC"],
+        "Cade Dembski": ["FRIB", "SuN"],
         "Sidney Knowles": ["Point Cloud Generation", "Downstream Tasks"],
         "Kate Phillips": ["Point Cloud Classification", "Point Cloud Generation"],
         "Brad Shook": ["Downstream Tasks", "Point Cloud Classification"],
