@@ -159,9 +159,9 @@ const membersData = {
             Tags:
             
             Labs: FRIB, CERN, MissS, JLab
-            Experiments: ATTPC, SuN, OPPAC
-            ML: CNN, PointNet, Foundation, Diffusion, Sparse, Transformer, Pix2Pix
-
+            Experiments: ATTPC, SuN, OPPAC, SPiRIT, HallB
+            ML: CNN, PointNet, Foundation, Diffusion, Sparse, Transformer, Pix2Pix, IQN, BNN
+                GAN, MCMC
         */
         "Alec Finch": ["FRIB", "ATTPC", "PointNet"],
         "Ann Zhu": ["FRIB", "ATTPC", "Foundation"],
@@ -191,8 +191,8 @@ const membersData = {
         "Luca Voichick":  ["FRIB", "ATTPC"],
         "Anela Davis":  ["FRIB", "ATTPC"],
         "Andrew Hoyle": ["JLab", "Pix2Pix"],
-        "Braden Kronheim": ["SUSY BNN", "HEP IQN", "MCMC", "CMS jets"],
-        "Tim Ladoceur": ["Point Cloud Generation"],
+        "Braden Kronheim": ["CERN", "BNN", "IQN"],
+        "Tim Ladoceur": ["FRIB", "SPiRIT"],
         "Niya Ma": ["Point Cloud Classification", "Point Cloud Generation"],
         "Erika Navarro": ["Point Cloud Occlusion", "Point Cloud Generation"],
         "Mike Remezo": ["Point Cloud Classification"],
@@ -205,24 +205,24 @@ const membersData = {
         "Chase Coley": ["Point Cloud Occlusion", "Point Cloud Classification"],
         "Oğuzhan Çölkesen": ["Downstream Tasks", "Point Cloud Occlusion"],
         "Eleni Tsitinidi": ["JLab", "MDN"],
-        "Annabel Winters-McCabe": ["PPAC", "FRIB"],
-        "Daniel Lammens": ["Point Cloud Occlusion", "Downstream Tasks"],
-        "Nade Bai": ["Point Cloud Classification", "Downstream Tasks"],
+        "Annabel Winters-McCabe": ["FRIB", "OPPAC"],
+        "Daniel Lammens": ["FRIB"],
+        "Nade Bai": ["JLab"],
         "Kate Roberts": ["FRIB", "OPPAC"],
         "Rida Shahid": ["JLab"],
         "Lexie Weghorn": ["FRIB", "OPPAC"],
         "Meg Houck": ["JLab", "MDN"],
-        "Zach Nussbaum": ["Point Cloud Generation", "Downstream Tasks"],
-        "Ted Yoo": ["Point Cloud Classification", "Downstream Tasks"],
-        "Jose Cruz": ["Point Cloud Occlusion", "Downstream Tasks"],
-        "Dulce Pacheco": ["Point Cloud Classification", "Downstream Tasks"],
-        "Evan Pritchard": ["Point Cloud Generation", "Downstream Tasks"],
-        "Michael Robertson": ["JLab", "Point Cloud Generation"],
-        "Christina Chen": ["MCMC"],
+        "Zach Nussbaum": ["FRIB", "ATTPC"],
+        "Ted Yoo": ["FRIB","ATTPC"],
+        "Jose Cruz": ["JLab", "HallB"],
+        "Dulce Pacheco": ["FRIB"],
+        "Evan Pritchard": ["JLab"],
+        "Michael Robertson": ["JLab"],
+        "Christina Chen": ["FRIB","MCMC"],
         "Gray Selby": ["ATTPC"],
-        "Ryan Strauss": ["Point Cloud Generation", "Downstream Tasks", "ATTPC"],
-        "Jack Taylor": ["Classification", "ATTPC"],
-        "Alex Karbo": ["SUSY BNN"]
+        "Ryan Strauss": ["FRIB", "ATTPC", "GAN"],
+        "Jack Taylor": ["FRIB", "ATTPC", "CNN"],
+        "Alex Karbo": ["CERN", "BNN"]
     },    
 
 memberLinks: {
