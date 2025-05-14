@@ -194,7 +194,7 @@ const membersData = {
         "Daniel Lammens": ["Point Cloud Occlusion", "Downstream Tasks"],
         "Nade Bai": ["Point Cloud Classification", "Downstream Tasks"],
         "Kate Roberts": ["PPAC", "Downstream Tasks"],
-        "Rida Shahid": ["JLab",
+        "Rida Shahid": ["JLab"],
         "Lexie Weghorn": ["Point Cloud Classification"],
         "Meg Houck": ["JLab", "MDN"],
         "Zach Nussbaum": ["Point Cloud Generation", "Downstream Tasks"],
