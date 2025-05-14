@@ -1,3 +1,17 @@
+- title: "Point-cloud based machine learning for classifying rare events in the Active-Target Time Projection Chamber"
+  authors: "Poulomi Dey, Adam K Anthony, Curtis Hunt, Michelle P Kuchera, Raghuram Ramanujan, William G Lynch, ManYee Betty Tsang, Joseph M Wieske, Jessica W Ajongbah, Saul Beceiro-Novo, Kyle W Brown, Zbigniew Chajecki, Kaitlin J Cook, Skyler Gangestad, Tom Ginter, Bergen Kendziorski, Fanurs Chi Eh Teh, HoTing Wong*"
+  journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+  volume: "Volume 1072"
+  year: 2025
+  doi: "https://doi.org/10.1016/j.nima.2024.170002"
+  url: "https://www.sciencedirect.com/science/article/pii/S0168900224009288"
+
+- title: "Unpaired Translation of Point Clouds for Modeling Detector Response"
+  authors: "M. Li, M.P. Kuchera, R. Ramanujan, A. Anthony, C. Hunt, Y. Ayyad"
+  journal: "NeurIPS 2024 Machine Learning and the Physical Sciences Workshop"
+  year: "2024"
+  url: "https://arxiv.org/abs/2501.18674"
+
 - title: "Two-dimensional total absorption spectroscopy with conditional generative adversarial networks"
   authors: "C. Dembski, M.P. Kuchera, S. Liddick, R. Ramanujan, A. Spyrou"
   journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
