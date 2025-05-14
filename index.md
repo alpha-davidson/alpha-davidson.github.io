@@ -43,15 +43,15 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 
 <h2>Recent News</h2>
 <ul>
-  <li>🧠 Our work on <strong>graph neural networks for nuclear decay</strong> was accepted to <em>NeurIPS 2024</em>.</li>
-  <li>👩‍🔬 Undergraduate researchers presented at the <strong>APS Division of Nuclear Physics</strong> meeting.</li>
-  <li>💾 Released: <em>OpenDecaySim v1.0</em> – on <a href="https://github.com/alpha-davidson">GitHub</a>.</li>
+  <li>🧠 Undergraduate Jerry Li's work on <strong>point cloud diffusion models</strong> was accepted to the <em>NeurIPS 2024 AI and the Physical Sciences Workshop</em> in December 2024.</li>
+  <li>👩‍🔬 Michelle Kuchera presented a plenary on AI in Nuclear Science at the <strong>APS Division of Nuclear Physics</strong> meeting in Fall 2024.</li>
+  <!--<li>💾 Released: <em>OpenDecaySim v1.0</em> – on <a href="https://github.com/alpha-davidson">GitHub</a>.</li> -->
 </ul>
 
 <hr />
 
 <h2>Get Involved</h2>
-<p>Interested in working with us? We welcome Davidson students from all backgrounds who are curious about AI and science.</p>
+<p>Interested in working with us? We welcome Davidson students from all areas of study who are curious about the intersection of AI and science.</p>
 <p>👉 Check out our <a href="/team/">team</a> or <a href="/research/">projects</a> to learn more.</p>
 
 </div>
