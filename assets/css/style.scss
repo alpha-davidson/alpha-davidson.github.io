@@ -123,7 +123,11 @@ nav.navbar {
     }
   }
 }
-
+.main-container {
+  max-width: 1200px; /* You can adjust this width */
+  margin: 0 auto;    /* Center the container */
+  padding: 20px;     /* Add padding around the content */
+}
 // ======== HEADINGS ========
 h1, h2, h3, h4 {
   color: $primary-color;
