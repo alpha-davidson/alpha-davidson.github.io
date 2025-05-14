@@ -1,4 +1,4 @@
-import { membersData, memberLinks } from './membersData.js';
+import membersData from './membersData.js';
 import { createResearchNetwork } from './researchNetwork.js';
 
 function populateCurrentMembers() {
@@ -13,7 +13,7 @@ function populateCurrentMembers() {
   
 membersData.currentMembers.students.forEach(name => {
   const li = document.createElement("li");
-  const linkedInUrl = memberLinks[name];
+  const linkedInUrl = membersData.memberLinks[name];
 
   if (linkedInUrl) {
     li.innerHTML = `<a href="${linkedInUrl}" target="_blank">${name}</a>`;
