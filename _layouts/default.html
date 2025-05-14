@@ -19,6 +19,13 @@
       <li><a href="{{ '/contact/' | relative_url }}" {% if page.url contains '/contact/' %}class="active"{% endif %}>Contact</a></li>
     </ul>
   </nav>
+  <header class="site-header">
+  <div class="logo-container">
+    <a href="{{ '/' | relative_url }}">
+      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="ALPhA Logo" class="site-logo">
+    </a>
+  </div>
+</header>
 
   {{ content }}
 
