@@ -58,7 +58,7 @@ function populateAlumni() {
 
     const ul = document.createElement('ul');
 
-    membersData.alumni.flat().forEach(name => {
+    Object.values(membersData.alumni).flat().forEach(name => {
       const li = document.createElement("li");
       const linkedInUrl = membersData.memberLinks[name];
 
@@ -74,9 +74,6 @@ function populateAlumni() {
     //     li.textContent = member;
     //     ul.appendChild(li);
     // });
-
-    
-
     semesterContent.appendChild(ul);
 
     // Update active tab
