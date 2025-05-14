@@ -48,19 +48,19 @@ const membersData = {
         ],
     "Fall 2021": [
         "Paul Choi",
-        "Cade Dembski (Michigan State University)",
+        "Cade Dembski",
         "Sidney Knowles",
-        "Kate Phillips (Mississippi State University)",
+        "Kate Phillips",
         "Brad Shook",
         "Luca Voichick"
         ],
       "Summer 2021": [
         "Anela Davis",
-        "Cade Dembski (Michigan State University)",
+        "Cade Dembski",
         "Andrew Hoyle",
         "Sidney Knowles",
         "Braden Kronheim",
-        "Tim Ladoceur (Michigan State University)",
+        "Tim Ladoceur",
         "Niya Ma",
         "Erika Navarro",
         "Mike Remezo",
@@ -75,7 +75,7 @@ const membersData = {
         "William Clark",
         "Chase Coley",
         "Oğuzhan Çölkesen",
-        "Cade Dembski (Michigan State University)",
+        "Cade Dembski",
         "Andrew Hoyle",
         "Sidney Knowles",
         "Braden Kronheim",
@@ -85,7 +85,7 @@ const membersData = {
       ],
       "Fall 2020": [
         "John Blue",
-        "Cade Dembski (Michigan State University)",
+        "Cade Dembski",
         "Andrew Hoyle",
         "Braden Kronheim",
         "Daniel Lammens",
@@ -106,7 +106,7 @@ const membersData = {
       ],
       "Spring 2020": [
         "John Blue",
-        "Cade Dembski (Michigan State University)",
+        "Cade Dembski",
         "Meg Houck",
         "Andrew Hoyle",
         "Braden Kronheim",
@@ -123,7 +123,7 @@ const membersData = {
       ],
       "Summer 2019": [
         "John Blue",
-        "Jose Cruz (Central Piedmont Community College)",
+        "Jose Cruz",
         "Meg Houck",
         "Braden Kronheim",
         "Dulce Pacheco (Johnson C. Smith Univ.)",
@@ -238,7 +238,8 @@ memberLinks: {
     "Gray Selby": "https://www.linkedin.com/in/grayselby/",
     "Meg Houck": "https://www.linkedin.com/in/meg-houck-0a4b05170/",
     "Ethan Cramer": "https://www.linkedin.com/in/ethan-cramer-3204991a2/",
-    "Robert Solli": "https://www.linkedin.com/in/robert-solli/"
+    "Robert Solli": "https://www.linkedin.com/in/robert-solli/",
+    "Jose Cruz": "https://www.linkedin.com/in/jose-cruz-5a2ab2154/"
   // Add more as available
 }
   };  
