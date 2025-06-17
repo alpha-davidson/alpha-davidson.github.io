@@ -15,16 +15,17 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 
 <hr />
 
-<h2>Sampling of What we are working on now</h2>
+<h2>Sampling of What we are working on</h2>
 
 <div class="team-grid">
   <div class="team-card">
     <h3>AI for Detector Data</h3>
     <p>Addressing or modeling detector effects in experimental data</p>
+    <p><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2012865&HistoricalAwards=false">NSF Award #2012865</a></p>
   </div>
 
   <div class="team-card">
-    <h3>ML for TPCs</h3>
+    <h3>Foundation Models for TPCs</h3>
     <p>Developeing Foundation Models to enable or assist with ML-supported data extraction or analysis in Time Projection Chmabers. </p>
 <p><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311263&HistoricalAwards=false">NSF Award #2311263</a></p>
 
