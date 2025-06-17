@@ -52,8 +52,10 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 
 <hr />
 
-<h2>Get Involved</h2>
-<p>Interested in working with us? We welcome Davidson students from all areas of study who are curious about the intersection of AI and science. There are potential opportunities for non-Davidson undergraduates. Reach out to Dr. Michelle Kuchera or Dr. Raghu Ramanujan rto learn more.</p>
+<h2>Interested in ALPhA?</h2>
+<p>Are you a student interested in working with us? We welcome Davidson students from all areas of study who are curious about the intersection of AI and science. There are potential opportunities for non-Davidson undergraduates. Reach out to Dr. Michelle Kuchera or Dr. Raghu Ramanujan rto learn more.</p>
+
+<p> Are you a physics researcher looking for potential collaboration? We are enthusiastic about collaborating on projects that we find exciting from a machine learning perspective. Please look at <a href="#">Information for Collaborators</a> for more information, then reach out to Michelle Kuchera or Raghu Ramanujan to discuss your project.</p>
 <!--<p>👉 Check out our <a href="/team/">team</a> or <a href="/research/">projects</a> to learn more.</p> -->
 
 </div>
