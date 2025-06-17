@@ -15,7 +15,7 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 
 <hr />
 
-<h2>What We are Working on Now</h2>
+<h2>Sampling of What we are working on now</h2>
 
 <div class="team-grid">
   <div class="team-card">
@@ -26,6 +26,8 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
   <div class="team-card">
     <h3>ML for TPCs</h3>
     <p>Developeing Foundation Models to enable or assist with ML-supported data extraction or analysis in Time Projection Chmabers. </p>
+<p><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311263&HistoricalAwards=false">NSF Award #2311263</a></p>
+
   </div>
 
 <!--  <div class="team-card">
