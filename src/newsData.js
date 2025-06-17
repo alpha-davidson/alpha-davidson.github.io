@@ -64,7 +64,18 @@ const newsData = [
             {image: "images/ML_SS2019_group.jpg", caption: "Students listen attentively to the summer school lectures. Graduate students and postdocs came from all over the U.S. and other countries to attend this school."}
         ],
         tags: ["Summer School", "Collaboration", "Research"]
-    }
+    },
+    {
+        id: 8,
+        title: "ALPhA research highlighted in Davidson's new Carnegie Research Designation",
+        date: "2025-02-13",
+        content: "<a href="https://www.davidson.edu/news/2025/02/13/seeking-answers-and-cures-davidson-college-receives-new-carnegie-research-designation">this article</a>",
+        images: [
+            {image: "images/ALPhA_Summit.jpg", caption: "ALPhA summer 2024 ice cream outting"}
+            
+        ],
+         tags: ["Summer Research", "Davidson"]
+    }    
 ];
 
 
