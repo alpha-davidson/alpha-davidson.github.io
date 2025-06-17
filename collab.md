@@ -18,7 +18,7 @@ Co-PIs Michelle Kuchera and Raghu Ramanjuan are experienced machine learning res
 
 <h2>Publication Expectations</h2>
 <ul>
-  <li> <b>Collaborating Publications</b> </ br>
+  <li> <b>Collaborating Publications</b>
   <p>For ML-based publications that come out of our collaboration, Michelle and Raghu expect to be included as coauthors. 
     For any of our own students who contribute code to the project, they should also be included as co-authors. </p>
   <p>For physics papers that use code the ALPhA had developed or contribited to, a reference to our ML paper is sufficient, unless the 
