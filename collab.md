@@ -18,15 +18,15 @@ Co-PIs Michelle Kuchera and Raghu Ramanjuan are experienced machine learning res
 
 <h2>Publication Expectations</h2>
 <ul>
-  <li> <b>Collaborating Publications</b> </li></br>
+  <li> <b>Collaborating Publications</b> </ br>
   <p>For ML-based publications that come out of our collaboration, Michelle and Raghu expect to be included as coauthors. 
     For any of our own students who contribute code to the project, they should also be included as co-authors. </p>
   <p>For physics papers that use code the ALPhA had developed or contribited to, a reference to our ML paper is sufficient, unless the 
   ML work is not (or not yet) published, in which case co-authorship is expected.</p>
   </li>
-  <li> <b>Student Researcher Co-authorship</b></li>
+  <li> <b>Student Researcher Co-authorship</b>
 <p>Many undergraduate researchers work with ALPhA every year. Student researchers who make suffient contributions to the main branch of the codebase(s) maintained on GitHub
-which is used in a ML-based publication are expected to be included as co-authors.</p>
+which is used in a ML-based publication are expected to be included as co-authors.</p></li>
 </ul>
 <p></p>
 
@@ -40,15 +40,6 @@ which is used in a ML-based publication are expected to be included as co-author
     <p>Learning optimal architectures for domain-specific scientific tasks.</p>
   </div> -->
 </div>
-
-<hr />
-
-<h2>Recent News</h2>
-<ul>
-  <li> Undergraduate Jerry Li's work on <strong>point cloud diffusion models</strong> was accepted to the <em>NeurIPS 2024 AI and the Physical Sciences Workshop</em> in December 2024.</li>
-  <li> Michelle Kuchera presented a plenary on AI in Nuclear Science at the <strong>APS Division of Nuclear Physics</strong> meeting in Fall 2024.</li>
-  <!--<li>💾 Released: <em>OpenDecaySim v1.0</em> – on <a href="https://github.com/alpha-davidson">GitHub</a>.</li> -->
-</ul>
 
 <hr />
 
