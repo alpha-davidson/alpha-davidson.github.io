@@ -115,14 +115,10 @@ function openNewsModal(id) {
             imageHtml = `<img src="${item.image}" alt="${item.title}">`;
         }
         
-
     modalBody.innerHTML = `
     ${imageHtml}
-    ${item.content}
+    <div class="news-content">${item.content}</div>
     <p><small>Published on ${new Date(item.date).toLocaleDateString()}</small></p>`;
-        
-        modal.style.display = 'block';
-    }
 }
 
 function moveCarousel(direction) {
