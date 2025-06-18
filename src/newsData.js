@@ -69,7 +69,7 @@
         id: 8,
         title: "ALPhA research highlighted in Davidson's new Carnegie Research Designation",
         date: "2025-02-13",
-        content: "Check out <a href=\"https://www.davidson.edu/news/2025/02/13/seeking-answers-and-cures-davidson-college-receives-new-carnegie-research-designation\">this article</a>",
+        content: "Davidson College received the Carnegie Research Designation of Research Colleges and Universities, As written in a Davidson article: \"The new designation applies to institutions that average at least $2.5 million per year on research and aren’t in a larger R1 or R2 classification. Some 218 institutions, less than 1% of the nation’s colleges and universities, fall into the new RCU category. \"",
         images: [
             {image: "images/ALPhA_Summit.jpg", caption: "ALPhA summer 2024 ice cream outting"},
             {image: "images/ALPhA_Ben_Andrew.jpg", caption: "VMC Symposium"}
