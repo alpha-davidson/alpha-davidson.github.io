@@ -65,8 +65,19 @@
         ],
         tags: ["Summer School", "Collaboration", "Research"]
     },
-    {
+      {
         id: 8,
+        title: "ALPhA releases three new publications",
+        date: "2025-01-01",
+        content: "ALPhA had a productive winter break with the release of three new publications, which can be found in the Publications tab of this website.",
+        images: [
+            {image: "images/pub1.jpg", caption: "ALPhA on a tour of the FRIB experimental facilities."},
+            {image: "images/pub2.jpg", caption: "Students listen attentively to the summer school lectures. Graduate students and postdocs came from all over the U.S. and other countries to attend this school."}
+        ],
+        tags: ["Publication", "Research"]
+    },
+    {
+        id: 9,
         title: "ALPhA research highlighted in Davidson's new Carnegie Research Designation",
         date: "2025-02-13",
         content: "Davidson College received the Carnegie Research Designation of Research Colleges and Universities, As written in a Davidson article: \"The new designation applies to institutions that average at least $2.5 million per year on research and aren’t in a larger R1 or R2 classification. Some 218 institutions, less than 1% of the nation’s colleges and universities, fall into the new RCU category. \"",
