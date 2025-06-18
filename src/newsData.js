@@ -68,7 +68,7 @@
       {
         id: 8,
         title: "ALPhA releases three new publications",
-        date: "2025-01-01",
+        date: "2025-01-20",
         content: "ALPhA had a productive winter break with the release of three new publications, which can be found in the Publications tab of this website.",
         images: [
             {image: "images/pub1.png", caption: "ALPhA on a tour of the FRIB experimental facilities."},
