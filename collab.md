@@ -8,7 +8,7 @@ title: ALPhA @ Davidson College
 <h1>Collaborating with ALPhA</h1>
 <!-- maybe this could simply be a publication expectations page, including collaboration publication expectations-->
 <p>
-Co-PIs Michelle Kuchera and Raghu Ramanjuan are experienced machine learning researchers who are excited about addressing computational challenges
+Co-PIs Michelle Kuchera and Raghu Ramanjuan are applied machine learning researchers who are excited about addressing computational challenges
   in Physics. If you are interested in collaborating with us, please take a look at the collaboration expectations below and contact us if interested!
 </p>
 
@@ -29,6 +29,15 @@ Co-PIs Michelle Kuchera and Raghu Ramanjuan are experienced machine learning res
 which is used in a ML-based publication are expected to be included as co-authors.</p></li>
 </ul>
 <p></p>
+<h2>Group Participation</h2>
+<ul>
+  <li> <b>Davidson Students</b>
+  <p>Davidson students must recieve payment (e.g. through our NSF grant funding or internal funding) or course credit (we offer PHY and CSC independent study courses, each having their own prereqs) to work with ALPhA. These researchers are expected to present at our weekly group meetings throughout the period of work. Slack is used for all research-related communication. These experiences are often highly sought after and thus require application.</p>
+  <li> <b>External Students and Other Collaborators</b>
+  <p>External members are *always* welcome to join our weekly group meetings via zoom, no prior notice needed. You are welcome to present slides, listen in on our work, pop in for a few minutes, or stay the whole time. Feel free to ask questions or simply lurk. We will give you access to our Slack workspace and will have a channel dedicated to our project. You can use this access as much/little as you like.</p>
+  </li>
+</ul>
+
 
 <!--  <div class="team-card">
     <h3>Automated Discovery</h3>
@@ -46,7 +55,7 @@ which is used in a ML-based publication are expected to be included as co-author
 <h2>Interested in ALPhA?</h2>
 <p>Are you a student interested in working with us? We welcome Davidson students from all areas of study who are curious about the intersection of AI and science. There are potential opportunities for non-Davidson undergraduates. Reach out to Dr. Michelle Kuchera or Dr. Raghu Ramanujan to learn more.</p>
 
-<p> Are you a physics researcher looking for potential collaboration? We are enthusiastic about collaborating on projects that we find exciting from a machine learning perspective. Please look at <a href="#">Information for Collaborators</a> for more information, then reach out to Michelle Kuchera or Raghu Ramanujan to discuss your project.</p>
+<p> Are you a physics researcher looking for potential collaboration? We are enthusiastic about collaborating on projects that we find exciting from a machine learning perspective. Please look at <a href="alpha-davidson.github.io/collab.html">Information for Collaborators</a> for more information, then reach out to Michelle Kuchera or Raghu Ramanujan to discuss your project.</p>
 <!--<p>👉 Check out our <a href="/team/">team</a> or <a href="/research/">projects</a> to learn more.</p> -->
 
 </div>
