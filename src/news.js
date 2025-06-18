@@ -115,10 +115,20 @@ function openNewsModal(id) {
             imageHtml = `<img src="${item.image}" alt="${item.title}">`;
         }
         
-    modalBody.innerHTML = `
-    ${imageHtml}
-    <div class="news-content">${item.content}</div>
-    <p><small>Published on ${new Date(item.date).toLocaleDateString()}</small></p>`;
+        modalBody.innerHTML = `
+            ${imageHtml}
+            <div class="news-content">${item.content}</div>
+            <p><small>Published on ${new Date(item.date).toLocaleDateString()}</small></p>
+        `;
+
+        // Ensure all links open in a new tab
+        modalBody.querySelectorAll('a').forEach(link => {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+        });
+
+        modal.style.display = 'block';
+    }
 }
 
 function moveCarousel(direction) {
