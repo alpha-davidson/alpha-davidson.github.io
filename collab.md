@@ -32,7 +32,7 @@ which is used in a ML-based publication are expected to be included as co-author
 <h2>Group Participation</h2>
 <ul>
   <li> <b>Davidson Students</b>
-  <p>Davidson students must recieve payment (e.g. through our NSF grant funding or internal funding) or course credit (we offer PHY and CSC independent study courses, each having their own prereqs) to work with ALPhA. These researchers are expected to present at our weekly group meetings throughout the period of work. Slack is used for all research-related communication. These experiences are often highly sought after and thus require application.</p>
+  <p>Davidson students must recieve payment (e.g. through our NSF grant funding or internal funding) or course credit (we offer PHY and CSC independent study courses, each having their own prereqs) to work with ALPhA. These researchers are expected to present at our weekly group meetings throughout the period of work. Slack is used for all research-related communication. These experiences are often highly sought after and thus require application.</p></li>
   <li> <b>External Students and Other Collaborators</b>
   <p>External members are *always* welcome to join our weekly group meetings via zoom, no prior notice needed. You are welcome to present slides, listen in on our work, pop in for a few minutes, or stay the whole time. Feel free to ask questions or simply lurk. We will give you access to our Slack workspace and will have a channel dedicated to our project. You can use this access as much/little as you like.</p>
   </li>
