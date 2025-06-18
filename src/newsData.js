@@ -71,8 +71,8 @@
         date: "2025-01-01",
         content: "ALPhA had a productive winter break with the release of three new publications, which can be found in the Publications tab of this website.",
         images: [
-            {image: "images/pub1.jpg", caption: "ALPhA on a tour of the FRIB experimental facilities."},
-            {image: "images/pub2.jpg", caption: "Students listen attentively to the summer school lectures. Graduate students and postdocs came from all over the U.S. and other countries to attend this school."}
+            {image: "images/pub1.png", caption: "ALPhA on a tour of the FRIB experimental facilities."},
+            {image: "images/pub2.png", caption: "Students listen attentively to the summer school lectures. Graduate students and postdocs came from all over the U.S. and other countries to attend this school."}
         ],
         tags: ["Publication", "Research"]
     },
