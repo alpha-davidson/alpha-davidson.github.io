@@ -1,4 +1,4 @@
-const newsData = [
+ const newsData = [
     {
         id: 1,
         title: "ALPhA presents at the Southeast Section of the APS Meeting",
@@ -69,7 +69,7 @@ const newsData = [
         id: 8,
         title: "ALPhA research highlighted in Davidson's new Carnegie Research Designation",
         date: "2025-02-13",
-        content: "<a href=\"https://www.davidson.edu/news/2025/02/13/seeking-answers-and-cures-davidson-college-receives-new-carnegie-research-designation\">this article</a>",
+        content: "Check out <a href=\"https://www.davidson.edu/news/2025/02/13/seeking-answers-and-cures-davidson-college-receives-new-carnegie-research-designation\">this article</a>",
         images: [
             {image: "images/ALPhA_Summit.jpg", caption: "ALPhA summer 2024 ice cream outting"},
             {image: "images/ALPhA_Ben_Andrew.jpg", caption: "VMC Symposium"}
