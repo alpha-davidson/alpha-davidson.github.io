@@ -115,11 +115,11 @@ function openNewsModal(id) {
             imageHtml = `<img src="${item.image}" alt="${item.title}">`;
         }
         
-        modalBody.innerHTML = `
-            ${imageHtml}
-            <p>${item.content}</p>
-            <p><small>Published on ${new Date(item.date).toLocaleDateString()}</small></p>
-        `;
+
+    modalBody.innerHTML = `
+    ${imageHtml}
+    ${item.content}
+    <p><small>Published on ${new Date(item.date).toLocaleDateString()}</small></p>`;
         
         modal.style.display = 'block';
     }
