@@ -20,7 +20,7 @@ Whether you're a Davidson student or an external researcher, here's how you can 
 <p>Davidson students can engage with ALPhA through:</p>
 <ul>
   <li><strong>Paid Fellowships</strong> - these are typically summer positions supported by internal or external grants.</li>
-  <li><strong>Independent Study Courses</strong> – these are courses offered in Physics (PHY) and Computer Science (CSC) with relevant prerequisites for credit during the semester. This is a course that would be part of a </li>
+  <li><strong>Independent Study Courses</strong> – these are courses offered in Physics (PHY) and Computer Science (CSC) with relevant prerequisites for credit during the semester. This is a course that would be one of a student's four courses for the semester; it can be counted towards graduation credits (and in some cases, towards major credit in CSC). </li>
 </ul>
 <p>Student researchers are expected to:</p>
 <ul>
@@ -35,7 +35,7 @@ Whether you're a Davidson student or an external researcher, here's how you can 
 
 <h2>Collaborating with ALPhA</h2>
 <p>
-We are enthusiastic about collaborations that involve machine learning with physics applications. If you're a physics researcher interested in partnering with us, we invite you to explore our <a href="alpha-davidson.github.io/collab.html">Information for Collaborators</a> page and to contact Michelle or Raghu to discuss your project.
+We are enthusiastic about collaborations that involve machine learning with physics applications. If you're a physics researcher interested in partnering with us, we invite you to contact Michelle or Raghu to discuss your project. Collaborators are welcome to join our weekly group meetings via Zoom, whether to present your own work or listen in on our ongoing work. Collaborators are also welcome to join our Slack workspace for asynchronous communication and updates.
 </p>
 
 <hr />
