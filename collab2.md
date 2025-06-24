@@ -19,7 +19,7 @@ Whether you're a Davidson student or an external researcher, here's how you can 
 <h2>Opportunities for Davidson Students</h2>
 <p>Davidson students can engage with ALPhA through:</p>
 <ul>
-  <li><strong>Paid Fellowships</strong> - these are typically summer positions supported by internal or external grants.</li>
+  <li><strong>Paid Fellowships</strong> - these are typically summer positions supported by internal or external grants. Limited funds may be available for academic year positions.</li>
   <li><strong>Independent Study Courses</strong> – these are courses offered in Physics (PHY) and Computer Science (CSC) with relevant prerequisites for credit during the semester. This is a course that would be one of a student's four courses for the semester; it can be counted towards graduation credits (and in some cases, towards major credit in CSC). </li>
 </ul>
 <p>Student researchers are expected to:</p>
