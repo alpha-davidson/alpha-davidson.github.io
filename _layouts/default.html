@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  {% if page.stylesheet %}
+  <link rel="stylesheet" href="{{ page.stylesheet | relative_url }}" />
+  {% endif %}
   <link rel="icon" href="/assets/images/favicon.ico" />
 </head>
 
@@ -22,11 +25,10 @@
       <li><a href="{{ '/members' | relative_url }}">Members</a></li>
       <li><a href="{{ '/news' | relative_url }}">News</a></li>
       <li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
-    <!--  <li><a href="{{ '/alum' | relative_url }}">Alumni</a></li> -->
     </ul>
   </nav>
 </header>
-  <div class="main-container"> <!-- Added container div -->
+  <div class="main-container">
     {{ content }}
   </div>
 

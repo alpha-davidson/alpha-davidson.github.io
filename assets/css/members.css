@@ -10,7 +10,9 @@
     padding: 2rem;
   }
   
-  h1, h2, h3 {
+.members-container h1,
+.members-container h2,
+.members-container h3 {
     color: var(--alpha-primary);
   }
   
@@ -25,12 +27,12 @@
     min-width: 300px;
   }
   
-  ul {
+.members-container ul {
     list-style-type: none;
     padding: 0;
   }
   
-  li {
+.members-container li {
     margin-bottom: 0.5rem;
   }
   
