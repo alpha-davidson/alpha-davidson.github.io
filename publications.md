@@ -8,10 +8,13 @@ stylesheet: /assets/css/publications.css
 
 ---------
 
-{% for publication in site.data.publications %}
+{% assign publications = site.data.publications | sort: "year" | reverse %}
+{% for publication in publications %}
 <div class="publication-item">
   <div class="publication-preview">
-    <iframe src="{{ publication.url }}" frameborder="0" scrolling="no"></iframe>
+    <span class="preview-label">Publication</span>
+    <span class="preview-year">{{ publication.year }}</span>
+    <span class="preview-journal">{{ publication.journal }}</span>
   </div>
   <div class="publication-details">
     <h3>{{ publication.title }}</h3>
@@ -21,7 +24,7 @@ stylesheet: /assets/css/publications.css
     <p class="doi">DOI: <a href="{{ publication.doi }}" target="_blank">{{ publication.doi }}</a></p>
     {% endif %}
     <p class="url">URL: <a href="{{ publication.url }}" target="_blank">{{ publication.url }}</a></p>
-    <button class="view-publication" data-url="{{ publication.url }}">View Full Publication</button>
+    <a class="view-publication" href="{{ publication.url }}" target="_blank" rel="noopener">View Full Publication</a>
   </div>
 </div>
 {% endfor %}

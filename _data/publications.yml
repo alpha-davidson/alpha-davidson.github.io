@@ -1,3 +1,26 @@
+- title: "The future of artificial intelligence and the mathematical and physical sciences (AI+MPS)"
+  authors: "Andrew Ferguson, Marisa LaFleur, Lars Ruthotto, Jesse Thaler, Yuan-Sen Ting, Pratyush Tiwary, Soledad Villar"
+  journal: "Machine Learning: Science and Technology"
+  volume: "7, 023001"
+  year: 2026
+  doi: "https://doi.org/10.1088/2632-2153/ae3e4e"
+  url: "https://iopscience.iop.org/article/10.1088/2632-2153/ae3e4e"
+
+- title: "Sparse Methods for Vector Embeddings of TPC Data"
+  authors: "Tyler Wheeler, Michelle P. Kuchera, Raghuram Ramanujan, Ryan Krupp, Chris Wrede, Saiprasad Ravishankar, Connor L. Cross, Hoi Yan Ian Heung, Andrew J. Jones, Benjamin Votaw"
+  journal: "NeurIPS Machine Learning and the Physical Sciences Workshop"
+  year: 2025
+  doi: "https://doi.org/10.48550/arXiv.2511.11221"
+  url: "https://arxiv.org/abs/2511.11221"
+
+- title: "Classifying Metal-poor Stars with Machine Learning Using Nucleosynthesis Calculations"
+  authors: "Nicole Vassh, Yilin Wang, Richard M. Woloshyn, Michelle P. Kuchera, Maude Larivière, Kayle Majic, Benoit Côté"
+  journal: "The Astrophysical Journal"
+  volume: "992, 36"
+  year: 2025
+  doi: "https://doi.org/10.3847/1538-4357/adfc6f"
+  url: "https://iopscience.iop.org/article/10.3847/1538-4357/adfc6f"
+
 - title: "Point-cloud based machine learning for classifying rare events in the Active-Target Time Projection Chamber"
   authors: "Poulomi Dey, Adam K Anthony, Curtis Hunt, Michelle P Kuchera, Raghuram Ramanujan, William G Lynch, ManYee Betty Tsang, Joseph M Wieske, Jessica W Ajongbah, Saul Beceiro-Novo, Kyle W Brown, Zbigniew Chajecki, Kaitlin J Cook, Skyler Gangestad, Tom Ginter, Bergen Kendziorski, Fanurs Chi Eh Teh, HoTing Wong*"
   journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"

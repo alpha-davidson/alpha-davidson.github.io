@@ -15,12 +15,36 @@
   .publication-preview {
     flex: 0 0 200px;
     margin-right: 1rem;
+    min-height: 180px;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #f8f8f8 0%, #ffffff 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
   }
 
-  .publication-preview iframe {
-    width: 100%;
-    height: 250px;
-    border: 1px solid #ddd;
+  .preview-label {
+    color: var(--alpha-primary);
+    font-size: 0.8rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .preview-year {
+    color: var(--alpha-text);
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1;
+  }
+
+  .preview-journal {
+    color: #555;
+    font-size: 0.9rem;
+    line-height: 1.35;
   }
 
   .publication-details {
@@ -54,63 +78,17 @@
   }
   
   .view-publication {
+    display: inline-block;
     background-color: var(--alpha-primary);
     color: white;
-    border: none;
     padding: 0.5rem 1rem;
-    cursor: pointer;
-    border-radius: 3px;
+    text-decoration: none;
     border-radius: 3px;
   }
   
   .view-publication:hover {
     background-color: #7a1526;
-  }
-  
-  .modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0,0,0,0.4);
-  }
-  
-  .modal-content {
-    background-color: #fefefe;
-    margin: 15% auto;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%;
-    max-width: 800px;
-  }
-  
-  .close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-  }
-  
-  .close:hover,
-  .close:focus {
-    color: black;
     text-decoration: none;
-    cursor: pointer;
-  }
-  
-  #embedded-content {
-    width: 100%;
-    height: 500px;
-    border: none;
-  }
-  
-  #publication-details {
-    margin-top: 1rem;
   }
 
 
@@ -137,33 +115,5 @@
       flex: 0 0 auto;
       margin-right: 0;
       margin-bottom: 1rem;
-    }
-  
-    .publication-preview iframe {
-      height: 200px;
-    }
-  
-    .modal-content {
-      margin: 20% auto;
-      width: 90%;
-    }
-  
-    #embedded-content {
-      height: 400px;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .publication-preview iframe {
-      height: 150px;
-    }
-  
-    .modal-content {
-      margin: 25% auto;
-      padding: 10px;
-    }
-  
-    #embedded-content {
-      height: 300px;
     }
   }
