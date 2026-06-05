@@ -1,6 +1,7 @@
 ---
 layout: publications_layout
-title: ALPhA Davidson
+title: ALPhA Publications
+stylesheet: /assets/css/publications.css
 ---
 
 *ALPhA members are **bold** in the author lists below.*

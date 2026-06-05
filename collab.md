@@ -6,13 +6,10 @@ title: ALPhA @ Davidson College
 <div class="container">
 
 <h1>Collaborating with ALPhA</h1>
-<!-- maybe this could simply be a publication expectations page, including collaboration publication expectations-->
 <p>
-Co-PIs Michelle Kuchera and Raghu Ramanjuan are applied machine learning researchers who are excited about addressing computational challenges
+Co-PIs Michelle Kuchera and Raghu Ramanujan are applied machine learning researchers who are excited about addressing computational challenges
   in Physics. If you are interested in collaborating with us, please take a look at the collaboration expectations below and contact us if interested!
 </p>
-
-<!--<p>We value <strong>open science</strong>, <strong>collaborative research</strong>, and <strong>inclusive mentorship</strong>.</p>-->
 
 <hr />
 
@@ -21,33 +18,24 @@ Co-PIs Michelle Kuchera and Raghu Ramanjuan are applied machine learning researc
   <li> <b>Collaborating Publications</b>
   <p>For ML-based publications that come out of our collaboration, Michelle and Raghu expect to be included as coauthors. 
     For any of our own students who contribute code to the project, they should also be included as co-authors. </p>
-  <p>For physics papers that use code the ALPhA had developed or contribited to, a reference to our ML paper is sufficient, unless the 
+  <p>For physics papers that use code the ALPhA had developed or contributed to, a reference to our ML paper is sufficient, unless the
   ML work is not (or not yet) published, in which case co-authorship is expected.</p>
   </li>
   <li> <b>Student Researcher Co-authorship</b>
-<p>Many undergraduate researchers work with ALPhA every year. Student researchers who make suffient contributions to the main branch of the codebase(s) maintained on GitHub
+<p>Many undergraduate researchers work with ALPhA every year. Student researchers who make sufficient contributions to the main branch of the codebase(s) maintained on GitHub
 which is used in a ML-based publication are expected to be included as co-authors.</p></li>
 </ul>
 <p></p>
 <h2>Group Participation</h2>
 <ul>
   <li> <b>Davidson Students</b>
-  <p>Davidson students must recieve payment (e.g. through our NSF grant funding or internal funding) or course credit (we offer PHY and CSC independent study courses, each having their own prereqs) to work with ALPhA. These researchers are expected to present at our weekly group meetings throughout the period of work. Slack is used for all research-related communication. These experiences are often highly sought after and thus require application.</p></li>
+  <p>Davidson students must receive payment (e.g. through our NSF grant funding or internal funding) or course credit (we offer PHY and CSC independent study courses, each having their own prerequisites) to work with ALPhA. These researchers are expected to present at our weekly group meetings throughout the period of work. Slack is used for all research-related communication. These experiences are often highly sought after and thus require application.</p></li>
   <li> <b>External Students and Other Collaborators</b>
   <p>External members are *always* welcome to join our weekly group meetings via zoom, no prior notice needed. You are welcome to present slides, listen in on our work, pop in for a few minutes, or stay the whole time. Feel free to ask questions or simply lurk. We will give you access to our Slack workspace and will have a channel dedicated to our project. You can use this access as much/little as you like.</p>
   </li>
 </ul>
 
 
-<!--  <div class="team-card">
-    <h3>Automated Discovery</h3>
-    <p>Developing systems for conjecture generation and theorem proving with AI.</p>
-  </div> -->
-
-<!--  <div class="team-card">
-    <h3>Neural Architecture Search</h3>
-    <p>Learning optimal architectures for domain-specific scientific tasks.</p>
-  </div> -->
 </div>
 
 <hr />
@@ -55,25 +43,6 @@ which is used in a ML-based publication are expected to be included as co-author
 <h2>Interested in ALPhA?</h2>
 <p>Are you a student interested in working with us? We welcome Davidson students from all areas of study who are curious about the intersection of AI and science. There are potential opportunities for non-Davidson undergraduates. Reach out to Dr. Michelle Kuchera or Dr. Raghu Ramanujan to learn more.</p>
 
-<p> Are you a physics researcher looking for potential collaboration? We are enthusiastic about collaborating on projects that we find exciting from a machine learning perspective. Please look at <a href="alpha-davidson.github.io/collab.html">Information for Collaborators</a> for more information, then reach out to Michelle Kuchera or Raghu Ramanujan to discuss your project.</p>
-<!--<p>👉 Check out our <a href="/team/">team</a> or <a href="/research/">projects</a> to learn more.</p> -->
+<p> Are you a physics researcher looking for potential collaboration? We are enthusiastic about collaborating on projects that we find exciting from a machine learning perspective. Please look at <a href="https://alpha-davidson.github.io/collab.html">Information for Collaborators</a> for more information, then reach out to Michelle Kuchera or Raghu Ramanujan to discuss your project.</p>
 
 </div>
-<!--
-# ALPhA research at Davidson College
-<!-- <div class="blurb">-->
-<!--  <p>We focus on applying cutting-edge machine learning methods to
-fundamental nuclear physics applications.</p>
-  <!--<h2> ALPhA Summer 2021 Positions -- Now hiring!</h2>-->
-<!--  <h2>ALPhA Research Opportunities -- Fall 2024</h2>
-  <h3> Independent Research projects</h3>
-  <p>These projects can be crafted as a CSC independent study course or a PHY independent research course. Contact Dr. Kuchera or Dr. Ramanujan before the semester starts to learn more.</p> 
-  <ul class="positions">
-    <b class="position-title">Machine Learning for the Facility for Rare Isotope Beams</b>
-    <ul class="position-descriptions">
-      <li class="psoition-description">Description: Use machine learning and reinforcement learning architectures to study the quantum structure of a nucleus and support experimental operations at the accelerator facility.</li>
-    </ul>
-  </ul>
-  <h2>Our Published Codes</h2>
-  <div id="github-repos"></div>
--->

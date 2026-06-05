@@ -8,8 +8,6 @@ github:
 
 google_analytics: UA-164678666-1
 
-logo: /assets/images/logo.png
-
 include:
   - src
 

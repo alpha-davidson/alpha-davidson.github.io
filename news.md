@@ -1,4 +1,5 @@
 ---
 layout: news_layout
-title: ALPhA Davidson
+title: ALPhA News
+stylesheet: /assets/css/news.css
 ---
