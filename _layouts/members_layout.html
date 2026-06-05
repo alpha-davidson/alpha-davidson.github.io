@@ -30,7 +30,6 @@ layout: default
     <div id="network-visualization"></div>
   </section>
 
-  <script src="https://d3js.org/d3.v7.min.js"></script>
-  <script type="module" src="{{ '/src/membersData.js' | relative_url }}"></script>
+  <script id="publications-data" type="application/json">{{ site.data.publications | jsonify }}</script>
   <script type="module" src="{{ '/src/members.js' | relative_url }}"></script>
 </div>

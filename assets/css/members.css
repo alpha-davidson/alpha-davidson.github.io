@@ -69,14 +69,62 @@
   
   #network-visualization {
     width: 100%;
-    height: 600px;
+    min-height: 650px;
     border: 1px solid #ddd;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #ffffff;
+  }
+
+  .publication-count {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.35rem;
+    height: 1.15rem;
+    margin-left: 0.35rem;
+    padding: 0 0.3rem;
+    border: 1px solid #d8c5ca;
+    border-radius: 999px;
+    color: #7a0a1f;
+    font-size: 0.68rem;
+    font-weight: 600;
+    line-height: 1;
+    vertical-align: 0.08rem;
+  }
+
+  .network-summary,
+  .network-empty {
+    margin: 0;
+    padding: 0.85rem 1rem 0;
+    color: #555555;
+    font-size: 0.95rem;
+  }
+
+  .network-links line {
+    stroke: #9c7f86;
+    stroke-opacity: 0.48;
+  }
+
+  .network-nodes circle {
+    stroke: #ffffff;
+    stroke-width: 1.6px;
+  }
+
+  .network-nodes text,
+  .network-legend text {
+    fill: #333333;
+    font-size: 0.74rem;
+    paint-order: stroke;
+    stroke: #ffffff;
+    stroke-width: 4px;
+    stroke-linejoin: round;
   }
 
 
   @media (max-width: 480px) {
     #network-visualization {
-      height: 300px;
+      min-height: 520px;
     }
   }
 
