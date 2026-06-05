@@ -1,5 +1,5 @@
 import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7/+esm';
-import membersData from './membersData.js';
+import membersData from './membersData.js?v=members-network-20260605';
 
 export function cleanMemberName(name) {
   return name.replace(/\s*\([^)]*\)\s*/g, '').trim();

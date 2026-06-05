@@ -1,10 +1,10 @@
-import membersData from './membersData.js';
+import membersData from './membersData.js?v=members-network-20260605';
 import {
   buildPublicationNetworkData,
   cleanMemberName,
   createResearchNetwork,
   getPublicationData
-} from './researchNetwork.js';
+} from './researchNetwork.js?v=members-network-20260605';
 
 const publications = getPublicationData();
 const publicationData = buildPublicationNetworkData(publications);
