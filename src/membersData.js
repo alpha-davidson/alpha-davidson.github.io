@@ -37,6 +37,20 @@ const membersData = {
       "Julia Holt",
       "Kerem Atas"
     ],
+    "Summer 2025": [
+      "Alex Landolfi",
+      "Jeremiah Duarte",
+      "Chanelle Hirwa",
+      "Gopesh Baheti",
+      "Kerem Atas",
+      "Nikita Aleksii",
+      "Hakan Bora Yavuzkara",
+      "Julia Holt",
+      "Tenzing Dorji",
+      "Tanaka Makoni",
+      "Daniela Martinez Becerra",
+      "Cillian Hallinan"
+    ],
     "Spring 2025": [
       "Ann Zhu",
       "Ben Wagner",
@@ -191,6 +205,7 @@ const membersData = {
     "Ben Votaw": "https://www.linkedin.com/in/ben-votaw-7241b4237/",
     "Cade Dembski": "https://www.linkedin.com/in/cade-dembski-7397a7143/",
     "Carter Kniple": "https://www.linkedin.com/in/carter-kniple/",
+    "Cillian Hallinan": "https://www.linkedin.com/in/cillian-hallinan/",
     "Connor Cross": "https://www.linkedin.com/in/connor-cross-950116236/",
     "Daniel Lammens": "https://www.linkedin.com/in/daniel-lammens-903a237a/",
     "Dylan Sparks": "https://www.linkedin.com/in/dylan-sparks-804462201/",
@@ -218,6 +233,7 @@ const membersData = {
     "Murtaza Nikzad": "https://www.linkedin.com/in/murtaza-nikzad-877722158/",
     "Mawiignen Tony Mallen-Ntiador": "https://www.linkedin.com/in/mawiignen-mallen-ntiador/",
     "Nade Bai": "https://www.linkedin.com/in/nade-bai-a20ba1b5/",
+    "Nikita Aleksii": "https://www.linkedin.com/in/nikita-aleksii/",
     "Niya Ma": "https://www.linkedin.com/in/niya-ma/",
     "Oğuzhan Çölkesen": "https://www.linkedin.com/in/oguzhan-colkesen/",
     "Pranjal": "https://www.linkedin.com/in/pranjal-singh-b9a32a198/",
@@ -230,6 +246,7 @@ const membersData = {
     "Sebastian Charmot": "https://www.linkedin.com/in/sebastian-charmot/",
     "Sidney Knowles": "https://www.linkedin.com/in/sidney-a-knowles/",
     "Ted Yoo": "https://www.linkedin.com/in/tedjyoo/",
+    "Tenzing Dorji": "https://www.linkedin.com/in/tenzing-dhendup-dorji/",
     "William Zhu": "https://www.linkedin.com/in/william-zhu1/",
     "Yumna Ahmed": "https://www.linkedin.com/in/yumna-fatima-ahmed/",
     "Zach Nussbaum": "https://www.linkedin.com/in/zach-nussbaum/"
