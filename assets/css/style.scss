@@ -65,11 +65,13 @@ a {
   margin: 0;
   padding: 0;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
+  gap: 0.4rem 1.2rem;
 }
 
 .main-nav li {
-  margin: 0 15px;
+  margin: 0;
 }
 
 .main-nav a {

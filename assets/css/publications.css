@@ -63,6 +63,10 @@
   .authors {
     font-style: italic;
   }
+
+  .alpha-author {
+    font-weight: 700;
+  }
   
   .journal {
     font-weight: bold;
