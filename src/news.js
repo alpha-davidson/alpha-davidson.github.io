@@ -28,11 +28,16 @@ function createNewsCard(item) {
             <div class="news-card-content">
                 <h3>${item.title}</h3>
                 <p>${item.content.substring(0, 100)}...</p>
-                <p><small>${new Date(item.date).toLocaleDateString()}</small></p>
+                <p><small>${formatNewsDate(item.date)}</small></p>
                 <button onclick="openNewsModal(${item.id})">Read More</button>
             </div>
         </div>
     `;
+}
+
+function formatNewsDate(dateString) {
+    const [year, month, day] = dateString.split('-').map(Number);
+    return new Date(year, month - 1, day).toLocaleDateString();
 }
 
 function randomizeCardHeights() {
@@ -118,7 +123,7 @@ function openNewsModal(id) {
         modalBody.innerHTML = `
             ${imageHtml}
             <div class="news-content">${item.content}</div>
-            <p><small>Published on ${new Date(item.date).toLocaleDateString()}</small></p>
+            <p><small>Published on ${formatNewsDate(item.date)}</small></p>
         `;
 
         // Ensure all links open in a new tab

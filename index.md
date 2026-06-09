@@ -32,10 +32,10 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 <hr />
 
 <h2>Recent News</h2>
-<ul>
-  <li> Undergraduate Jerry Li's work on <strong>point cloud diffusion models</strong> was accepted to the <em>NeurIPS 2024 AI and the Physical Sciences Workshop</em> in December 2024.</li>
-  <li> Michelle Kuchera presented a plenary on AI in Nuclear Science at the <strong>APS Division of Nuclear Physics</strong> meeting in Fall 2024.</li>
-</ul>
+<div id="home-latest-news" class="home-news-list">
+  <p><a href="{{ '/news' | relative_url }}">View ALPhA news</a></p>
+</div>
+<p><a href="{{ '/news' | relative_url }}">View all news</a></p>
 
 <hr />
 
@@ -45,3 +45,5 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 <p> Are you a physics researcher looking for potential collaboration? We are enthusiastic about collaborating on projects that we find exciting from a machine learning perspective. Please look at <a href="https://alpha-davidson.github.io/collab2.html">Information for Collaborators</a> for more information, then reach out to Michelle Kuchera or Raghu Ramanujan to discuss your project.</p>
 
 </div>
+
+<script type="module" src="{{ '/src/homeNews.js' | relative_url }}?v=home-news-20260609"></script>
