@@ -10,17 +10,17 @@ layout: default
     <div class="member-grid">
       <div class="member-category">
         <h3>Faculty</h3>
-        <ul id="faculty-list"></ul>
+        <ul id="faculty-list" class="past-members-list"></ul>
       </div>
       <div class="member-category">
         <h3>Students</h3>
-        <ul id="students-list"></ul>
+        <ul id="students-list" class="past-members-list"></ul>
       </div>
     </div>
   </section>
 
   <section id="alumni">
-    <h2>Alumni</h2>
+    <h2>Past Members</h2>
     <div id="semester-tabs"></div>
     <div id="semester-content"></div>
   </section>
@@ -31,5 +31,5 @@ layout: default
   </section>
 
   <script id="publications-data" type="application/json">{{ site.data.publications | jsonify }}</script>
-  <script type="module" src="{{ '/src/members.js' | relative_url }}?v=members-20261020"></script>
+  <script type="module" src="{{ '/src/members.js' | relative_url }}?v=members-layout-20261020b"></script>
 </div>
