@@ -8,7 +8,7 @@ stylesheet: /assets/css/publications.css
 
 ---------
 
-{% assign publications = site.data.publications | sort: "year" | reverse %}
+{% assign publications = site.data.publications %}
 {% for publication in publications %}
 <div class="publication-item">
   <div class="publication-preview">

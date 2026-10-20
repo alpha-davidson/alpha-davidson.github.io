@@ -1,6 +1,29 @@
+# Publications are listed on the site in this order, so keep the newest entries at the top.
+- title: "How Architecture and Training Affect TPC Representations Across Experiments"
+  authors: "Tyler Wheeler, Michelle P. Kuchera, Raghuram Ramanujan, William Sieland, Ryan Krupp, Yassid Ayyad, Daniel Bazin, Connor L. Cross, Hoi Yan Ian Heung, Andrew J. Jones, Ruchi Mahajan, Saiprasad Ravishankar, Pranjal Singh, Benjamin Votaw, Chris Wrede"
+  journal: "arXiv preprint"
+  year: 2026
+  doi: "https://doi.org/10.48550/arXiv.2608.21756"
+  url: "https://arxiv.org/abs/2608.21756"
+
+- title: "Artificial Intelligence in Nuclear Physics: Valuing Deep Learning and Deep Thinking"
+  authors: "Michelle P. Kuchera"
+  journal: "Nuclear Physics News (editorial)"
+  volume: "36(3), 42"
+  year: 2026
+  doi: "https://doi.org/10.1080/10619127.2026.2694951"
+  url: "https://www.tandfonline.com/doi/full/10.1080/10619127.2026.2694951"
+
+- title: "Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision"
+  authors: "Thea Klaeboe Aarrestad, …, Michelle Kuchera, … (459 authors)"
+  journal: "Community white paper, endorsed by the APS Division of Particles and Fields Coordinating Panel for Software and Computing"
+  year: 2026
+  doi: "https://doi.org/10.48550/arXiv.2602.17582"
+  url: "https://arxiv.org/abs/2602.17582"
+
 - title: "The future of artificial intelligence and the mathematical and physical sciences (AI+MPS)"
   authors: "Andrew Ferguson, Marisa LaFleur, Lars Ruthotto, Jesse Thaler, Yuan-Sen Ting, Pratyush Tiwary, Soledad Villar"
-  journal: "Machine Learning: Science and Technology"
+  journal: "Machine Learning: Science and Technology (workshop report; M. Kuchera, participant)"
   volume: "7, 023001"
   year: 2026
   doi: "https://doi.org/10.1088/2632-2153/ae3e4e"
@@ -22,7 +45,7 @@
   url: "https://iopscience.iop.org/article/10.3847/1538-4357/adfc6f"
 
 - title: "Point-cloud based machine learning for classifying rare events in the Active-Target Time Projection Chamber"
-  authors: "Poulomi Dey, Adam K Anthony, Curtis Hunt, Michelle P Kuchera, Raghuram Ramanujan, William G Lynch, ManYee Betty Tsang, Joseph M Wieske, Jessica W Ajongbah, Saul Beceiro-Novo, Kyle W Brown, Zbigniew Chajecki, Kaitlin J Cook, Skyler Gangestad, Tom Ginter, Bergen Kendziorski, Fanurs Chi Eh Teh, HoTing Wong*"
+  authors: "Poulomi Dey, Adam K Anthony, Curtis Hunt, Michelle P Kuchera, Raghuram Ramanujan, William G Lynch, ManYee Betty Tsang, Joseph M Wieske, Jessica W Ajongbah, Saul Beceiro-Novo, Kyle W Brown, Zbigniew Chajecki, Kaitlin J Cook, Skyler Gangestad, Tom Ginter, Bergen Kendziorski, Fanurs Chi Eh Teh, HoTing Wong"
   journal: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
   volume: "Volume 1072"
   year: 2025
@@ -36,9 +59,9 @@
   url: "https://arxiv.org/abs/2501.18674"
 
 - title: "Implicit quantile networks for emulation in jet physics"
-  authors: "B. Kronheim*, A. Al Kadhim, M.P. Kuchera, H.B. Prosper, R. Ramanujan"
+  authors: "B. Kronheim, A. Al Kadhim, M.P. Kuchera, H.B. Prosper, R. Ramanujan"
   journal: "Machine Learning: Science and Technology"
-  volume: "04507"
+  volume: "5, 045073"
   year: 2024
   doi: "https://doi.org/10.1088/2632-2153/ad9884"
   url: "https://iopscience.iop.org/article/10.1088/2632-2153/ad9884"
@@ -65,6 +88,14 @@
   year: 2022
   url: "https://arxiv.org/pdf/2112.02309.pdf"
 
+- title: "TensorBNN: Bayesian Inference for Neural Networks using Tensorflow"
+  authors: "B. Kronheim, M.P. Kuchera, H.B. Prosper"
+  journal: "Computer Physics Communications"
+  volume: "270, 108168"
+  year: 2022
+  doi: "https://doi.org/10.1016/j.cpc.2021.108168"
+  url: "https://arxiv.org/abs/2009.14393"
+
 - title: "Implicit Quantile Neural Networks for Jet Simulation and Correction"
   authors: "Braden Kronheim, Michelle P. Kuchera, Harrison B. Prosper, Raghuram Ramanujan"
   journal: "NeurIPS Machine Learning and the Physical Sciences workshop"
@@ -78,14 +109,6 @@
   year: 2021
   doi: "https://doi.org/10.1051/epjconf/202125103055"
   url: "https://www.epj-conferences.org/articles/epjconf/pdf/2021/05/epjconf_chep2021_03055.pdf"
-
-- title: "TensorBNN: Bayesian Inference for Neural Networks using Tensorflow"
-  authors: "B. Kronheim, M.P. Kuchera, H.B. Prosper"
-  journal: "Computer Physics Communications"
-  volume: "270, 108168"
-  year: 2022
-  doi: "https://doi.org/10.1016/j.cpc.2021.108168"
-  url: "https://arxiv.org/abs/2009.14393"
 
 - title: "Simulation of electron-proton scattering events by a Feature-Augmented and Transformed Generative Adversarial Network (FAT-GAN)"
   authors: "Y. Alanazi, N. Sato, T. Liu, W. Melnitchouk, M. P. Kuchera, E. Pritchard, M. Robertson, R.R. Strauss, L. Velasco, Y. Li"
@@ -124,19 +147,19 @@
   doi: "https://doi.org/10.1016/j.physletb.2020.136041"
   url: "https://www.sciencedirect.com/science/article/pii/S0370269320308224"
 
-- title: "cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network"
-  authors: "L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, M.P. Kuchera, Yasir Alanazi, Yaohang Li"
-  journal: "19th IEEE International Conference on Machine Learning and Applications (ICMLA)"
-  year: 2020
-  doi: "10.1109/ICMLA51294.2020.00066"
-  url: "https://ieeexplore.ieee.org/document/9356177"
-
 - title: "A.I. For Nuclear Physics"
   authors: "P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, M.P. Kuchera, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang"
   journal: "The European Physical Journal A"
   volume: "57, 100"
   year: 2021
   url: "https://link.springer.com/article/10.1140/epja/s10050-020-00290-x"
+
+- title: "cFAT-GAN: Conditional Simulation of Electron-Proton Scattering Events with Variate Beam Energies by a Feature Augmented and Transformed Generative Adversarial Network"
+  authors: "L. Velasco, E. McClellan, N. Sato, P. Ambrozewicz, T. Liu, W. Melnitchouk, M.P. Kuchera, Yasir Alanazi, Yaohang Li"
+  journal: "19th IEEE International Conference on Machine Learning and Applications (ICMLA)"
+  year: 2020
+  doi: "10.1109/ICMLA51294.2020.00066"
+  url: "https://ieeexplore.ieee.org/document/9356177"
 
 - title: "Report from the A.I. For Nuclear Physics Workshop"
   authors: "P. Bedaque, A. Boehnlein, M. Cromaz, M. Diefenthaler, L. Elouadrhiri, T. Horn, M.P. Kuchera, D. Lawrence, D. Lee, S. Lidia, R. McKeown, W. Melnitchouk, W. Nazarewicz, K. Orginos, Y. Roblin, M.S. Smith, M. Schram, Xin-Nian Wang"
