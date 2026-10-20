@@ -24,7 +24,7 @@ function createNewsCard(item) {
     const imageSource = item.images && item.images.length > 0 ? item.images[0].image || item.images[0] : item.image;
     return `
         <div class="news-card">
-            <img src="${imageSource || ''}" alt="${item.title}">
+            ${imageSource ? `<img src="${imageSource}" alt="${item.title}">` : ''}
             <div class="news-card-content">
                 <h3>${item.title}</h3>
                 <p>${item.content.substring(0, 100)}...</p>

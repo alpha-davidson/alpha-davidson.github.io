@@ -1,10 +1,10 @@
-import membersData from './membersData.js?v=members-network-20260605';
+import membersData from './membersData.js?v=members-20261020';
 import {
   buildPublicationNetworkData,
   cleanMemberName,
   createResearchNetwork,
   getPublicationData
-} from './researchNetwork.js?v=members-network-20260605';
+} from './researchNetwork.js?v=members-20261020';
 
 const publications = getPublicationData();
 const publicationData = buildPublicationNetworkData(publications);
@@ -47,6 +47,11 @@ function populateCurrentMembers() {
   membersData.currentMembers.students.forEach((name) => {
     studentsList.appendChild(createMemberCard(name));
   });
+
+  // Hide the Students heading in semesters with no current students.
+  if (membersData.currentMembers.students.length === 0) {
+    studentsList.closest('.member-category').hidden = true;
+  }
 }
 
 function populateAlumni() {

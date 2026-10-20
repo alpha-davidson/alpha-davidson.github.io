@@ -4,19 +4,7 @@ const membersData = {
       "Michelle Kuchera",
       "Raghu Ramanujan"
     ],
-    students: [
-      "Jonathan Arenas",
-      "Payten Jenrich",
-      "Rainul Hakim",
-      "Julia Gelina",
-      "Noah Guggenheimer",
-      "Ken Xia",
-      "Mawiignen Tony Mallen-Ntiador",
-      "Bradley Cruthirds",
-      "Hakan Bora Yavuzkara",
-      "Martina Caprioglio Plaza",
-      "Liam Sieland"
-    ]
+    students: []
   },
   alumni: {
     "Summer 2026": [
@@ -34,6 +22,10 @@ const membersData = {
     ],
     "Spring 2026": [
       "Hakan Bora Yavuzkara",
+      "Julia Holt",
+      "Kerem Atas"
+    ],
+    "Fall 2025": [
       "Julia Holt",
       "Kerem Atas"
     ],
@@ -76,13 +68,91 @@ const membersData = {
       "Enzo Guardado",
       "Gopesh Baheti",
       "Jerry Li",
-      "Jessica Ajongbah",
-      "Kyle Taft",
+      "Jessica Ajongbah (Michigan State University)",
+      "Kyle Taft (Michigan State University)",
       "Murtaza Nikzad",
-      "Pranjal",
+      "Pranjal Singh (Michigan State University)",
       "Riana Doctor",
       "Silas Garrett",
       "William Zhu"
+    ],
+    "Spring 2024": [
+      "Jerry Li",
+      "Tahmid Awal",
+      "Lorraine Xu",
+      "Kailliou Macon-Goudeau",
+      "Griffin Whalen",
+      "Artem Havryliuk",
+      "Poulomi Dey (Michigan State University)",
+      "Pranjal Singh (Michigan State University)"
+    ],
+    "Fall 2023": [
+      "Ian Heung",
+      "Tahmid Awal",
+      "DuBose Tuller",
+      "Dmytro Kurdydyk",
+      "Dvij Sharma",
+      "Jerry Li",
+      "Poulomi Dey (Michigan State University)",
+      "Artem Havryliuk",
+      "Pranjal Singh (Michigan State University)"
+    ],
+    "Summer 2023": [
+      "Andrew Jones",
+      "Artem Havryliuk",
+      "Ben Wagner",
+      "Dmytro Kurdydyk",
+      "Ben Votaw",
+      "Tara Boehmler",
+      "Yumna Ahmed",
+      "Mohamed Mostafa",
+      "Jeanne Kim",
+      "Brian Peacock"
+    ],
+    "Spring 2023": [
+      "Preston Ito",
+      "Ethan Cramer",
+      "Dylan Sparks",
+      "Poulomi Dey (Michigan State University)",
+      "Kyle Taft (Michigan State University)",
+      "Milo Baran (Michigan State University)"
+    ],
+    "Fall 2022": [
+      "Andrew Rice",
+      "Dvij Sharma",
+      "Mengfan Wang",
+      "Brad Shook",
+      "Artem Havryliuk",
+      "Poulomi Dey (Michigan State University)",
+      "Kyle Taft (Michigan State University)",
+      "Milo Baran (Michigan State University)"
+    ],
+    "Summer 2022": [
+      "Andrew Jones",
+      "Andrew Rice",
+      "Ari Maki",
+      "Philo Gabra",
+      "Elham Said",
+      "Rodney Wimbush",
+      "Samone Cullum",
+      "Donald Lim",
+      "Jerry Li",
+      "Emilio Villasana",
+      "Maya Wallach (Michigan State University)",
+      "Artem Havryliuk",
+      "Angus Wong (Michigan State University)"
+    ],
+    "Spring 2022": [
+      "Luca Voichick",
+      "Emily Paton",
+      "Tahmid Awal",
+      "Ian Heung",
+      "Leo Hu",
+      "Emilio Villasana",
+      "Cade Dembski",
+      "Chenlu Qin",
+      "Brad Shook",
+      "Angus Wong (Michigan State University)"
     ],
     "Fall 2021": [
       "Paul Choi",
@@ -236,7 +306,7 @@ const membersData = {
     "Nikita Aleksii": "https://www.linkedin.com/in/nikita-aleksii/",
     "Niya Ma": "https://www.linkedin.com/in/niya-ma/",
     "Oğuzhan Çölkesen": "https://www.linkedin.com/in/oguzhan-colkesen/",
-    "Pranjal": "https://www.linkedin.com/in/pranjal-singh-b9a32a198/",
+    "Pranjal Singh": "https://www.linkedin.com/in/pranjal-singh-b9a32a198/",
     "Raghu Ramanujan": "https://www.linkedin.com/in/raghuramanujan/",
     "Rainul Hakim": "https://www.linkedin.com/in/rainulhakim/",
     "Riana Doctor": "https://www.linkedin.com/in/riana-doctor-24290828b/",
@@ -252,6 +322,26 @@ const membersData = {
     "Zach Nussbaum": "https://www.linkedin.com/in/zach-nussbaum/"
   },
   memberAliases: {
+    "Andrew Jones": [
+      "Andrew J. Jones",
+      "Andrew J Jones"
+    ],
+    "Angus Wong": [
+      "HoTing Wong"
+    ],
+    "Ann Zhu": [
+      "Qianhui Zhu"
+    ],
+    "Ben Wagner": [
+      "Benjamin Wagner",
+      "Benjamin P Wagner"
+    ],
+    "Ian Heung": [
+      "Hoi Yan Ian Heung"
+    ],
+    "Liam Sieland": [
+      "William Sieland"
+    ],
     "Michelle Kuchera": [
       "Michelle P. Kuchera",
       "Michelle P Kuchera",

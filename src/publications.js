@@ -1,4 +1,4 @@
-import membersData from './membersData.js?v=members-network-20260605';
+import membersData from './membersData.js?v=members-20261020';
 
 function cleanMemberName(name) {
   return name.replace(/\s*\([^)]*\)\s*/g, '').trim();
