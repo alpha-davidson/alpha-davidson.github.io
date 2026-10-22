@@ -56,7 +56,7 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
 
 <hr />
 
-<h2>Funding</h2>
+<h2 id="funding">Funding</h2>
 <p>We gratefully acknowledge support for ALPhA's research from:</p>
 <ul class="funding-list">
   <li><strong>National Science Foundation</strong>, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311263">Award 2311263</a>: Elements: Portable Machine Learning Models for Experimental Nuclear Physics (2023–2027)</li>

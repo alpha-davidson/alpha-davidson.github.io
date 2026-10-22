@@ -1,0 +1,34 @@
+# Public repositories from https://github.com/alpha-davidson that accompany ALPhA papers, shown on the Code page.
+# Only list repositories that are ready for public use, and add the NSF acknowledgement to each README.
+# Entries are listed on the site in this order.
+
+research:
+  - name: attpc_unpaired_trans
+    description: "Diffusion probabilistic models for unpaired translation between simulated and experimental AT-TPC events."
+    paper: "Unpaired Translation of Point Clouds for Modeling Detector Response (NeurIPS ML4PS 2024)"
+    paper_url: "https://arxiv.org/abs/2501.18674"
+
+  - name: SuN_cGAN
+    description: "A conditional GAN that unfolds (Ex, Eγ) matrices measured with the SuN detector."
+    paper: "Two-dimensional total absorption spectroscopy with conditional generative adversarial networks (NIM A 2024)"
+    paper_url: "https://doi.org/10.1016/j.nima.2023.169026"
+
+  - name: Jet-IQNs
+    description: "Implicit quantile networks that model joint distributions for jet emulation, in TensorFlow and PyTorch."
+    paper: "Implicit quantile networks for emulation in jet physics (MLST 2024)"
+    paper_url: "https://doi.org/10.1088/2632-2153/ad9884"
+
+  - name: IQNs-for-Jets
+    description: "Implicit quantile networks for reconstructing jets from CMS open data."
+    paper: "Implicit Quantile Neural Networks for Jet Simulation and Correction (NeurIPS ML4PS 2021)"
+    paper_url: "https://arxiv.org/abs/2111.11415"
+
+  - name: falcon-cWGAN
+    description: "A fast detector simulator that maps parton-level jets to reconstructed jets with a conditional Wasserstein GAN."
+    paper: "Conditional Wasserstein Generative Adversarial Networks for Fast Detector Simulation (CHEP 2021)"
+    paper_url: "https://doi.org/10.1051/epjconf/202125103055"
+
+  - name: TensorBNN
+    description: "Bayesian neural networks trained with Hamiltonian Monte Carlo in TensorFlow."
+    paper: "TensorBNN: Bayesian Inference for Neural Networks using TensorFlow (Computer Physics Communications 2022)"
+    paper_url: "https://doi.org/10.1016/j.cpc.2021.108168"
