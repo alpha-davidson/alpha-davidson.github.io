@@ -35,6 +35,7 @@
   year: 2025
   doi: "https://doi.org/10.48550/arXiv.2511.11221"
   url: "https://arxiv.org/abs/2511.11221"
+  code: "https://github.com/alpha-davidson/sparse-tpc-embeddings/tree/v1.0.0"
 
 - title: "Classifying Metal-poor Stars with Machine Learning Using Nucleosynthesis Calculations"
   authors: "Nicole Vassh, Yilin Wang, Richard M. Woloshyn, Michelle P. Kuchera, Maude Larivière, Kayle Majic, Benoit Côté"
@@ -57,6 +58,7 @@
   journal: "NeurIPS 2024 Machine Learning and the Physical Sciences Workshop"
   year: 2024
   url: "https://arxiv.org/abs/2501.18674"
+  code: "https://github.com/alpha-davidson/attpc_unpaired_trans"
 
 - title: "Implicit quantile networks for emulation in jet physics"
   authors: "B. Kronheim, A. Al Kadhim, M.P. Kuchera, H.B. Prosper, R. Ramanujan"
@@ -65,6 +67,7 @@
   year: 2024
   doi: "https://doi.org/10.1088/2632-2153/ad9884"
   url: "https://iopscience.iop.org/article/10.1088/2632-2153/ad9884"
+  code: "https://github.com/alpha-davidson/Jet-IQNs"
 
 - title: "Two-dimensional total absorption spectroscopy with conditional generative adversarial networks"
   authors: "C. Dembski, M.P. Kuchera, S. Liddick, R. Ramanujan, A. Spyrou"
@@ -73,6 +76,7 @@
   year: 2024
   doi: "https://doi.org/10.1016/j.nima.2023.169026"
   url: "https://www.sciencedirect.com/science/article/pii/S0168900223010264?dgcid=coauthor"
+  code: "https://github.com/alpha-davidson/SuN_cGAN"
 
 - title: "Machine learning-based event generator for electron-proton scattering"
   authors: "Y. Alanazi, P. Ambrozewicz, M. Battaglieri, A. N. Hiller Blin, M. P. Kuchera, Y. Li, T. Liu, R. E. McClellan, W. Melnitchouk, E. Pritchard, M. Robertson, N. Sato, R. Strauss, and L. Velasco"
@@ -95,12 +99,14 @@
   year: 2022
   doi: "https://doi.org/10.1016/j.cpc.2021.108168"
   url: "https://arxiv.org/abs/2009.14393"
+  code: "https://github.com/alpha-davidson/TensorBNN"
 
 - title: "Implicit Quantile Neural Networks for Jet Simulation and Correction"
   authors: "Braden Kronheim, Michelle P. Kuchera, Harrison B. Prosper, Raghuram Ramanujan"
   journal: "NeurIPS Machine Learning and the Physical Sciences workshop"
   year: 2021
   url: "https://arxiv.org/pdf/2111.11415.pdf"
+  code: "https://github.com/alpha-davidson/IQNs-for-Jets"
 
 - title: "Conditional Wasserstein Generative Adversarial Networks for Fast Detector Simulation"
   authors: "John Blue, Braden Kronheim, Michelle Kuchera, and Raghuram Ramanujan"
@@ -109,6 +115,7 @@
   year: 2021
   doi: "https://doi.org/10.1051/epjconf/202125103055"
   url: "https://www.epj-conferences.org/articles/epjconf/pdf/2021/05/epjconf_chep2021_03055.pdf"
+  code: "https://github.com/alpha-davidson/falcon-cWGAN"
 
 - title: "Simulation of electron-proton scattering events by a Feature-Augmented and Transformed Generative Adversarial Network (FAT-GAN)"
   authors: "Y. Alanazi, N. Sato, T. Liu, W. Melnitchouk, M. P. Kuchera, E. Pritchard, M. Robertson, R.R. Strauss, L. Velasco, Y. Li"

@@ -1,7 +1,7 @@
 ---
 layout: publications_layout
 title: ALPhA Publications
-stylesheet: /assets/css/publications.css
+stylesheet: /assets/css/publications.css?v=20261103
 ---
 
 *ALPhA members are **bold** in the author lists below.*
@@ -25,6 +25,7 @@ stylesheet: /assets/css/publications.css
     {% endif %}
     <p class="url">URL: <a href="{{ publication.url }}" target="_blank">{{ publication.url }}</a></p>
     <a class="view-publication" href="{{ publication.url }}" target="_blank" rel="noopener">View Full Publication</a>
+    {% if publication.code %}<a class="view-code" href="{{ publication.code }}" target="_blank" rel="noopener">View Code</a>{% endif %}
   </div>
 </div>
 {% endfor %}

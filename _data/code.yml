@@ -3,6 +3,12 @@
 # Entries are listed on the site in this order.
 
 research:
+  - name: sparse-tpc-embeddings
+    description: "A sparse ResNet built with the Minkowski Engine, pretrained on GADGET II events, whose embeddings are probed with linear SVMs on GADGET II and AT-TPC tasks."
+    paper: "Sparse Methods for Vector Embeddings of TPC Data (NeurIPS ML4PS 2025)"
+    paper_url: "https://arxiv.org/abs/2511.11221"
+    doi: "10.5281/zenodo.23889819"
+
   - name: attpc_unpaired_trans
     description: "Diffusion probabilistic models for unpaired translation between simulated and experimental AT-TPC events."
     paper: "Unpaired Translation of Point Clouds for Modeling Detector Response (NeurIPS ML4PS 2024)"

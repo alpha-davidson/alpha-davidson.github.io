@@ -95,6 +95,22 @@
     text-decoration: none;
   }
 
+  .view-code {
+    display: inline-block;
+    margin-left: 0.5rem;
+    padding: calc(0.5rem - 1px) calc(1rem - 1px);
+    border: 1px solid var(--alpha-primary);
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: var(--alpha-primary);
+    text-decoration: none;
+  }
+
+  .view-code:hover {
+    background-color: #f6eef0;
+    text-decoration: none;
+  }
+
 
 .doi a,
 .url a {
