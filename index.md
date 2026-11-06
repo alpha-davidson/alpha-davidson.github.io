@@ -19,7 +19,7 @@ Welcome to the Algorithms for Learning in Physics Applications (ALPhA) research 
   <div class="team-card">
     <h3>Representation Learning for TPC Data</h3>
     <p>Reusable representations of time projection chamber data. Our recent work examines how model architecture and training shape these embeddings across tasks, experiments, and detectors, including the AT-TPC and GADGET II.</p>
-    <p><a href="https://arxiv.org/abs/2608.21756">Recent preprint</a> · <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311263">NSF Award #2311263</a></p>
+    <p><a href="https://arxiv.org/abs/2608.21756">Recent preprint</a> · <a href="https://github.com/alpha-davidson/sparse-tpc-embeddings">Code</a> · <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2311263">NSF Award #2311263</a></p>
   </div>
 
   <div class="team-card">

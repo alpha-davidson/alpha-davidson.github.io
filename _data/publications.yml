@@ -5,6 +5,7 @@
   year: 2026
   doi: "https://doi.org/10.48550/arXiv.2608.21756"
   url: "https://arxiv.org/abs/2608.21756"
+  code: "https://github.com/alpha-davidson/sparse-tpc-embeddings/tree/v2.0.0"
 
 - title: "Artificial Intelligence in Nuclear Physics: Valuing Deep Learning and Deep Thinking"
   authors: "Michelle P. Kuchera"

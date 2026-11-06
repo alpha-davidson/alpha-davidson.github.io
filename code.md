@@ -15,8 +15,11 @@ stylesheet: /assets/css/code.css?v=20261021
   <li class="repo">
     <a class="repo-name" href="https://github.com/alpha-davidson/{{ repo.name }}">{{ repo.name }}</a>
     <p>{{ repo.description }}</p>
+    {% if repo.papers %}{% for p in repo.papers %}
+    <p class="repo-paper">Paper: <a href="{{ p.paper_url }}">{{ p.paper }}</a><br>Code: <a href="https://github.com/alpha-davidson/{{ repo.name }}/tree/{{ p.release }}">release {{ p.release }}</a> · Zenodo: <a href="https://doi.org/{{ p.doi }}">doi:{{ p.doi }}</a></p>
+    {% endfor %}{% else %}
     <p class="repo-paper">Paper: <a href="{{ repo.paper_url }}">{{ repo.paper }}</a></p>
-    {% if repo.doi %}<p class="repo-paper">Archived on Zenodo: <a href="https://doi.org/{{ repo.doi }}">doi:{{ repo.doi }}</a></p>{% endif %}
+    {% if repo.doi %}<p class="repo-paper">Archived on Zenodo: <a href="https://doi.org/{{ repo.doi }}">doi:{{ repo.doi }}</a></p>{% endif %}{% endif %}
   </li>
 {% endfor %}
 </ul>
